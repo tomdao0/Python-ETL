@@ -1,0 +1,8 @@
+Django==4.1
+django-extensions==3.2.1
+django-salesforce==4.1
+djangorestframework==3.14.0
+wfastcgi==3.0.0
+pymysql
+mysqlclient
+pandas
