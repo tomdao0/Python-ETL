@@ -1,9 +1,12 @@
 import pandas as pd
 import numpy as np
 import re
+import urllib.parse
+import sqlalchemy
+from sqlalchemy import create_engine
 
 
-class DateFormatDetector:
+class TransformData:
 
     def __init__(self, file_location, sheetname):
 
@@ -64,16 +67,14 @@ class DateFormatDetector:
             return "No valid date format found"
 
     def transform_column_name(self, col):
-        cleaned_col = (
-            re.sub(r"\s+", " ", re.sub(r"[^a-zA-Z\s]", "", col)).strip().lower()
-        )
+        cleaned_col = re.sub(r"\s+", " ", re.sub(r"[^a-zA-Z\s]", "", col)).strip()
         cleaned_col = cleaned_col.replace(" ", "_")
         return cleaned_col
 
     def detect_amount_date(self):
         # Rename all name of column to correct format
         j = 1
-        for i in self.df_data.columns:
+        for i in self.df_data.columns.str.lower():
             cleaned_name = self.transform_column_name(i)
             if cleaned_name not in self.cols_sql:
                 self.cols_sql.append(cleaned_name)
@@ -165,7 +166,76 @@ class DateFormatDetector:
                 self.df_data.drop(columns=[i + "_Tom_sample"], inplace=True)
         return self.df_data
 
+    def transform_data_type(self):
+        for i in self.df_data.columns:
+            if i not in self.Amt_col and i not in self.Date_col:
+                self.df_data[i].astype(str)
+            elif i in self.Amt_col:
+                self.df_data[i].astype(float)
+            elif i in self.Date_col:
+                self.df_data[i] = pd.to_datetime(self.df_data[i], format="%d/%m/%Y")
+
     def result(self):
         self.detect_amount_date()
         self.transform_all_number_col()
+        self.transform_data_type()
+
         return self.df_data
+
+
+class MaskData:
+
+    def __init__(self, df_data, cols_to_masked, cols_mask, path_masked_file):
+        self.df_data = df_data
+        self.cols_to_masked = cols_to_masked
+        self.cols_mask = cols_mask
+        self.path_masked_file = path_masked_file
+        self.df_name = pd.read_csv(path_masked_file)
+
+    def mask_data(self):
+        for i in self.cols_to_masked:
+            random_index = np.random.randint(
+                0, self.df_name.shape[0], self.df_data.shape[0]
+            )
+            self.df_data[i] = self.df_name.iloc[random_index][self.cols_mask].values
+        return self.df_data
+
+    def generate_random_phone_number(self):
+        area_code = np.random.randint(100, 999)
+        exchange_code = np.random.randint(100, 999)
+        subscriber_number = np.random.randint(1000, 9999)
+
+        phone_number = f"({area_code}) {exchange_code}-{subscriber_number}"
+        return phone_number
+
+    def mask_phone(self):
+        for i in self.cols_to_masked:
+            phone_numbers = [
+                self.generate_random_phone_number()
+                for _ in range(self.df_data.shape[0])
+            ]
+            self.df_data[i] = phone_numbers
+        return self.df_data
+
+
+class CreateTableInSQLServer:
+    def __init__(self, SQLServerName, DBName, TableName, df_data):
+        self.connect_string = urllib.parse.quote_plus(
+            "DRIVER={ODBC Driver 17 for SQL Server};"
+            "Server=" + SQLServerName + ";"
+            "Database=" + DBName + ";"
+            "Trusted_Connection=yes;"
+        )
+        self.TableName = TableName
+        self.df_data = df_data
+
+    def run(self):
+        engine = create_engine(
+            f"mssql+pyodbc:///?odbc_connect={self.connect_string}",
+            fast_executemany=True,
+        )
+        with engine.connect() as connection:
+            self.df_data.to_sql(
+                self.TableName, connection, index=False, if_exists="append"
+            )
+            print("OK")
