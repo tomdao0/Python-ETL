@@ -23,6 +23,7 @@ class TransformData:
             "discount",
             "profit",
             "revenue",
+            "cost",
         ]
         self.default_date = ["date"]
         self.Amt_col = []
