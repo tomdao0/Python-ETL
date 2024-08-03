@@ -70,12 +70,12 @@ class TransformData:
     def transform_column_name(self, col):
         cleaned_col = re.sub(r"\s+", " ", re.sub(r"[^a-zA-Z\s]", "", col)).strip()
         cleaned_col = cleaned_col.replace(" ", "_")
-        return cleaned_col
+        return col
 
     def detect_amount_date(self):
         # Rename all name of column to correct format
         j = 1
-        for i in self.df_data.columns.str.lower():
+        for i in self.df_data.columns:
             cleaned_name = self.transform_column_name(i)
             if cleaned_name not in self.cols_sql:
                 self.cols_sql.append(cleaned_name)
@@ -89,10 +89,10 @@ class TransformData:
         # Determine all date and amount columns
         for i in self.df_data.columns:
             for j in self.default_amount:
-                if j in self.transform_column_name(i):
+                if j in self.transform_column_name(i).lower():
                     self.Amt_col.append(i)
             for j in self.default_date:
-                if j in self.transform_column_name(i):
+                if j in self.transform_column_name(i).lower():
                     self.Date_col.append(i)
 
         print("Amount Columns:", self.Amt_col)
@@ -240,3 +240,88 @@ class CreateTableInSQLServer:
                 self.TableName, connection, index=False, if_exists="append"
             )
             print("OK")
+
+
+# class Generate_10500_OppName:
+#     def __init__(self, loc_export):
+#         self.loc_export = loc_export
+
+#     def generate_fake_company_name():
+#         prefixes = [
+#             "Global",
+#             "Advanced",
+#             "Prime",
+#             "Dynamic",
+#             "Innovative",
+#             "Quantum",
+#             "Superior",
+#             "Elite",
+#             "United",
+#             "Pioneer",
+#         ]
+#         suffixes = [
+#             "Solutions",
+#             "Corporation",
+#             "Technologies",
+#             "Industries",
+#             "Enterprises",
+#             "Consulting",
+#             "Holdings",
+#             "Group",
+#             "Services",
+#             "Partners",
+#         ]
+#         return f"{random.choice(prefixes)} {random.choice(suffixes)}"
+
+#     def generate_data(self):
+
+#         return None
+
+
+# import pandas as pd
+# import random
+# import string
+
+# # Function to generate a fake company name
+
+
+# fake_company_names = [generate_fake_company_name() for _ in range(100)]
+# # List of 10 states
+# states = [
+#     "US",
+#     "UK",
+#     "US",
+#     "VN",
+#     "Pennsylvania",
+#     "Ohio",
+#     "Georgia",
+#     "North Carolina",
+#     "Michigan",
+# ]
+# # Keywords related to accounting, audit, and tax
+# accounting_keywords = ["Financial", "Ledger", "Balance", "Reporting", "Bookkeeping"]
+# audit_keywords = ["Compliance", "Review", "Assessment", "Inspection", "Certification"]
+# tax_keywords = ["Taxation", "Filing", "Returns", "Compliance", "Planning"]
+# keywords = accounting_keywords + audit_keywords + tax_keywords
+
+
+# # Function to generate a random opportunity name related to accounting, audit, and tax, with a fake company name
+# def generate_related_opportunity_name():
+#     keyword = random.choice(keywords)
+#     company = random.choice(fake_company_names)
+
+#     state = random.choice(states)
+#     return f"{keyword} Opportunity in {state} at {company}"
+
+
+# # Generate 10500 random opportunity names
+# related_opportunity_names = [generate_related_opportunity_name() for _ in range(10500)]
+
+# # Create a DataFrame
+# df_related = pd.DataFrame(related_opportunity_names, columns=["Opportunity Name"])
+
+# # Save to CSV
+# csv_path_related = "accounting_audit_tax_opportunity_names_with_fake_companies.csv"
+# df_related.to_csv(csv_path_related, index=False)
+
+# csv_path_related
