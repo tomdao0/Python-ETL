@@ -242,86 +242,15 @@ class CreateTableInSQLServer:
             print("OK")
 
 
-# class Generate_10500_OppName:
-#     def __init__(self, loc_export):
-#         self.loc_export = loc_export
+class Generate_Random_Column_Base_Array:
+    def __init__(self, df_data, colname, ArrayMask):
+        self.df_data = df_data
+        self.colname = colname
+        self.ArrayMask = ArrayMask
 
-#     def generate_fake_company_name():
-#         prefixes = [
-#             "Global",
-#             "Advanced",
-#             "Prime",
-#             "Dynamic",
-#             "Innovative",
-#             "Quantum",
-#             "Superior",
-#             "Elite",
-#             "United",
-#             "Pioneer",
-#         ]
-#         suffixes = [
-#             "Solutions",
-#             "Corporation",
-#             "Technologies",
-#             "Industries",
-#             "Enterprises",
-#             "Consulting",
-#             "Holdings",
-#             "Group",
-#             "Services",
-#             "Partners",
-#         ]
-#         return f"{random.choice(prefixes)} {random.choice(suffixes)}"
-
-#     def generate_data(self):
-
-#         return None
-
-
-# import pandas as pd
-# import random
-# import string
-
-# # Function to generate a fake company name
-
-
-# fake_company_names = [generate_fake_company_name() for _ in range(100)]
-# # List of 10 states
-# states = [
-#     "US",
-#     "UK",
-#     "US",
-#     "VN",
-#     "Pennsylvania",
-#     "Ohio",
-#     "Georgia",
-#     "North Carolina",
-#     "Michigan",
-# ]
-# # Keywords related to accounting, audit, and tax
-# accounting_keywords = ["Financial", "Ledger", "Balance", "Reporting", "Bookkeeping"]
-# audit_keywords = ["Compliance", "Review", "Assessment", "Inspection", "Certification"]
-# tax_keywords = ["Taxation", "Filing", "Returns", "Compliance", "Planning"]
-# keywords = accounting_keywords + audit_keywords + tax_keywords
-
-
-# # Function to generate a random opportunity name related to accounting, audit, and tax, with a fake company name
-# def generate_related_opportunity_name():
-#     keyword = random.choice(keywords)
-#     company = random.choice(fake_company_names)
-
-#     state = random.choice(states)
-#     return f"{keyword} Opportunity in {state} at {company}"
-
-
-# # Generate 10500 random opportunity names
-# related_opportunity_names = [generate_related_opportunity_name() for _ in range(10500)]
-
-# # Create a DataFrame
-# df_related = pd.DataFrame(related_opportunity_names, columns=["Opportunity Name"])
-
-# # Save to CSV
-# csv_path_related = "accounting_audit_tax_opportunity_names_with_fake_companies.csv"
-# df_related.to_csv(csv_path_related, index=False)
-
-# csv_path_related
+    def generate_random_data(self):
+        np.random.seed(42)
+        self.df_data[self.colname] = np.random.choice(
+            self.ArrayMask, size=len(self.df_data)
+        )
+        return self.df_data
