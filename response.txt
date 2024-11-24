@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+      <control>
+            <status>failure</status>
+            <senderid>eastwestcenter1</senderid>
+            <controlid>control_test</controlid>
+            <uniqueid>false</uniqueid>
+            <dtdversion>3.0</dtdversion>
+      </control>
+      <errormessage>
+            <error>
+                  <errorno>XL03000006</errorno>
+                  <description></description>
+                  <description2>Incorrect Intacct XML Partner ID or password. [Support ID: PlopzWEB031%7EZ0K1dP5C0Bu4npg-GOa6OwAAABI]</description2>
+                  <correction></correction>
+            </error>
+      </errormessage>
+</response>

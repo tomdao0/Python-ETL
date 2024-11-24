@@ -1,0 +1,62 @@
+2024-11-24 12:02:44,941:INFO:_________Starting Proccess________
+2024-11-24 12:02:48,648:INFO:Preparing to update data for Intacct_GLTransaction
+2024-11-24 12:02:48,656:INFO:The folder 'GLDETAIL' has been deleted.
+2024-11-24 12:02:50,089:ERROR:An unexpected error occurred: 'NoneType' object has no attribute 'findall'
+2024-11-24 12:03:04,844:INFO:_________Starting Proccess________
+2024-11-24 12:03:06,156:INFO:Preparing to update data for Intacct_GLTransaction
+2024-11-24 12:03:06,156:INFO:The folder 'GLDETAIL' has been deleted.
+2024-11-24 12:03:07,604:ERROR:An unexpected error occurred: 'NoneType' object has no attribute 'findall'
+2024-11-24 12:03:19,242:INFO:_________Starting Proccess________
+2024-11-24 12:03:19,468:ERROR:'get_Intacct_data' object has no attribute 'log_file'
+2024-11-24 12:03:19,786:INFO:Preparing to update data for Intacct_GLTransaction
+2024-11-24 12:03:37,635:INFO:_________Starting Proccess________
+2024-11-24 12:03:37,877:ERROR:'get_Intacct_data' object has no attribute 'log_file'
+2024-11-24 12:03:38,099:INFO:Preparing to update data for Intacct_GLTransaction
+2024-11-24 12:04:16,489:INFO:_________Starting Proccess________
+2024-11-24 12:04:16,878:ERROR:'get_Intacct_data' object has no attribute 'log_file'
+2024-11-24 12:04:17,130:INFO:Preparing to update data for Intacct_GLTransaction
+2024-11-24 12:04:41,796:INFO:_________Starting Proccess________
+2024-11-24 12:04:42,021:ERROR:'get_Intacct_data' object has no attribute 'log_file'
+2024-11-24 12:04:42,318:INFO:Preparing to update data for Intacct_GLTransaction
+2024-11-24 12:06:01,788:INFO:_________Starting Proccess________
+2024-11-24 12:06:03,393:ERROR:'get_Intacct_data' object has no attribute 'log_file'
+2024-11-24 12:06:03,622:INFO:Preparing to update data for Intacct_GLAccount
+2024-11-24 12:06:52,416:INFO:_________Starting Proccess________
+2024-11-24 12:06:52,669:INFO:Checking data in Intacct_GLAccount
+2024-11-24 12:06:52,895:ERROR:('42S02', "[42S02] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Invalid object name 'Intacct_GLAccount'. (208) (SQLExecDirectW)")
+2024-11-24 12:06:53,405:INFO:Preparing to update data for Intacct_GLAccount
+2024-11-24 12:07:50,915:INFO:_________Starting Proccess________
+2024-11-24 12:07:51,244:INFO:Checking data in Intacct_GLAccount
+2024-11-24 12:07:52,000:INFO:This first running, please wait for pull data to Intacct_GLAccount
+2024-11-24 12:07:54,987:INFO:Processing file: 1.csv
+2024-11-24 12:07:58,880:INFO:Successfully imported 1.csv!
+2024-11-24 12:08:43,835:INFO:_________Starting Proccess________
+2024-11-24 12:08:44,061:INFO:Checking data in Intacct_GLAccount
+2024-11-24 12:08:45,004:INFO:This first running, please wait for pull data to Intacct_GLAccount
+2024-11-24 12:08:45,006:INFO:The folder 'GLACCOUNT' has been deleted.
+2024-11-24 12:08:47,804:INFO:Processing file: 1.csv
+2024-11-24 12:08:51,355:INFO:Successfully imported 1.csv!
+2024-11-24 12:09:30,370:INFO:_________Starting Proccess________
+2024-11-24 12:09:30,677:INFO:Checking data in Intacct_GLAccount
+2024-11-24 12:09:31,597:INFO:Preparing to update data for Intacct_GLAccount
+2024-11-24 12:09:31,599:INFO:The folder 'GLACCOUNT' has been deleted.
+2024-11-24 12:09:34,383:INFO:Processing file: 1.csv
+2024-11-24 12:09:38,058:INFO:Successfully imported 1.csv!
+2024-11-24 12:09:59,969:INFO:_________Starting Proccess________
+2024-11-24 12:10:00,270:INFO:Checking data in Intacct_GLAccount
+2024-11-24 12:10:01,036:INFO:This first running, please wait for pull data to Intacct_GLAccount
+2024-11-24 12:10:01,036:INFO:The folder 'GLACCOUNT' has been deleted.
+2024-11-24 12:10:03,686:INFO:Processing file: 1.csv
+2024-11-24 12:10:07,443:INFO:Successfully imported 1.csv!
+2024-11-24 12:10:09,672:INFO:_________Starting Proccess________
+2024-11-24 12:10:10,006:INFO:Checking data in Intacct_GLAccount
+2024-11-24 12:10:10,742:INFO:Preparing to update data for Intacct_GLAccount
+2024-11-24 12:10:10,751:INFO:The folder 'GLACCOUNT' has been deleted.
+2024-11-24 12:10:12,552:INFO:No data to update
+2024-11-24 12:10:47,179:INFO:_________Starting Proccess________
+2024-11-24 12:10:48,626:ERROR:('28000', "[28000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Login failed for user 'ssadmin1'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Login failed for user 'ssadmin1'. (18456)")
+2024-11-24 12:10:48,626:INFO:Preparing to update data for Intacct_GLAccount
+2024-11-24 12:11:03,033:INFO:_________Starting Proccess________
+2024-11-24 12:11:03,345:INFO:Checking data in Intacct_GLAccount
+2024-11-24 12:11:04,162:INFO:Preparing to update data for Intacct_GLAccount
+2024-11-24 12:11:05,687:ERROR:An unexpected error occurred: 'NoneType' object has no attribute 'findall'
