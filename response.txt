@@ -1,18 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response>
       <control>
-            <status>failure</status>
-            <senderid>eastwestcenter1</senderid>
+            <status>success</status>
+            <senderid>eastwestcenter</senderid>
             <controlid>control_test</controlid>
             <uniqueid>false</uniqueid>
             <dtdversion>3.0</dtdversion>
       </control>
-      <errormessage>
-            <error>
-                  <errorno>XL03000006</errorno>
-                  <description></description>
-                  <description2>Incorrect Intacct XML Partner ID or password. [Support ID: PlopzWEB031%7EZ0K1dP5C0Bu4npg-GOa6OwAAABI]</description2>
-                  <correction></correction>
-            </error>
-      </errormessage>
+      <operation>
+            <authentication>
+                  <status>success</status>
+                  <userid>silverseas</userid>
+                  <companyid>eastwestcenter</companyid>
+                  <locationid></locationid>
+                  <sessiontimestamp>2024-12-10T15:43:59+00:00</sessiontimestamp>
+                  <sessiontimeout>2024-12-11T03:43:59+00:00</sessiontimeout>
+            </authentication>
+            <result>
+                  <status>success</status>
+                  <function>query</function>
+                  <controlid>query_get_data</controlid>
+                  <data listtype="GLACCOUNT" totalcount="863" offset="846" count="17" numremaining="0">
+                        <GLACCOUNT>
+                              <ACCOUNTNO>E3744</ACCOUNTNO>
+                              <TITLE>WASTE COLLECTION</TITLE>
+                              <ACCOUNTTYPE>incomestatement</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY>Utility Expense</CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>E3745</ACCOUNTNO>
+                              <TITLE>UTILITIES REIMBURSEMENT</TITLE>
+                              <ACCOUNTTYPE>incomestatement</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY>Utility Expense</CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>E9805</ACCOUNTNO>
+                              <TITLE>DEPRECIATION</TITLE>
+                              <ACCOUNTTYPE>incomestatement</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY>Depreciation Expense</CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>E3304</ACCOUNTNO>
+                              <TITLE>DUES</TITLE>
+                              <ACCOUNTTYPE>incomestatement</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY>Dues and Subscriptions Expense</CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>E3305</ACCOUNTNO>
+                              <TITLE>SUBSCRIPTIONS</TITLE>
+                              <ACCOUNTTYPE>incomestatement</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY>Dues and Subscriptions Expense</CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>E2B10</ACCOUNTNO>
+                              <TITLE>S&amp;G Travel</TITLE>
+                              <ACCOUNTTYPE>incomestatement</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY></CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>L2400</ACCOUNTNO>
+                              <TITLE>PAYABLE TO OTHER AGENCY FUNDS</TITLE>
+                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
+                              <NORMALBALANCE>credit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY></CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>L2021</ACCOUNTNO>
+                              <TITLE>Interest Payable to Funder</TITLE>
+                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
+                              <NORMALBALANCE>credit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY></CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>L8023</ACCOUNTNO>
+                              <TITLE>LEASE LIABILITY - ST OPERATING</TITLE>
+                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY></CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>A6502</ACCOUNTNO>
+                              <TITLE>Right of Use Asset - Building: Operating Leases</TITLE>
+                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY></CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>A6503</ACCOUNTNO>
+                              <TITLE>Right of Use Asset - Office Equipment: Finance Leases</TITLE>
+                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY></CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>A6504</ACCOUNTNO>
+                              <TITLE>Right of Use Asset - Office Equipment: Operating Leases</TITLE>
+                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY></CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>L8022</ACCOUNTNO>
+                              <TITLE>LEASE LIABILITY - LT OPERATING</TITLE>
+                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY></CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>A2715</ACCOUNTNO>
+                              <TITLE>A/R - Lessor Incentives</TITLE>
+                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY></CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>A6901</ACCOUNTNO>
+                              <TITLE>ACCUMULATED AMORTIZATION - FINANCE LEASE</TITLE>
+                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY></CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>L8021</ACCOUNTNO>
+                              <TITLE>LEASE LIABILITY - LT FINANCE</TITLE>
+                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY></CATEGORY>
+                        </GLACCOUNT>
+                        <GLACCOUNT>
+                              <ACCOUNTNO>A6501</ACCOUNTNO>
+                              <TITLE>RIGHT OF USE ASSET - BUILDING: FINANCE LEASES</TITLE>
+                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
+                              <NORMALBALANCE>debit</NORMALBALANCE>
+                              <STATUS>active</STATUS>
+                              <CATEGORY></CATEGORY>
+                        </GLACCOUNT>
+                  </data>
+            </result>
+      </operation>
 </response>
