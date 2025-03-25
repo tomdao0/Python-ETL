@@ -13,150 +13,238 @@
                   <userid>silverseas</userid>
                   <companyid>eastwestcenter</companyid>
                   <locationid></locationid>
-                  <sessiontimestamp>2024-12-10T15:43:59+00:00</sessiontimestamp>
-                  <sessiontimeout>2024-12-11T03:43:59+00:00</sessiontimeout>
+                  <sessiontimestamp>2024-12-13T13:57:11+00:00</sessiontimestamp>
+                  <sessiontimeout>2024-12-14T01:57:11+00:00</sessiontimeout>
             </authentication>
             <result>
                   <status>success</status>
-                  <function>query</function>
+                  <function>lookup</function>
                   <controlid>query_get_data</controlid>
-                  <data listtype="GLACCOUNT" totalcount="863" offset="846" count="17" numremaining="0">
-                        <GLACCOUNT>
-                              <ACCOUNTNO>E3744</ACCOUNTNO>
-                              <TITLE>WASTE COLLECTION</TITLE>
-                              <ACCOUNTTYPE>incomestatement</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY>Utility Expense</CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>E3745</ACCOUNTNO>
-                              <TITLE>UTILITIES REIMBURSEMENT</TITLE>
-                              <ACCOUNTTYPE>incomestatement</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY>Utility Expense</CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>E9805</ACCOUNTNO>
-                              <TITLE>DEPRECIATION</TITLE>
-                              <ACCOUNTTYPE>incomestatement</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY>Depreciation Expense</CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>E3304</ACCOUNTNO>
-                              <TITLE>DUES</TITLE>
-                              <ACCOUNTTYPE>incomestatement</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY>Dues and Subscriptions Expense</CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>E3305</ACCOUNTNO>
-                              <TITLE>SUBSCRIPTIONS</TITLE>
-                              <ACCOUNTTYPE>incomestatement</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY>Dues and Subscriptions Expense</CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>E2B10</ACCOUNTNO>
-                              <TITLE>S&amp;G Travel</TITLE>
-                              <ACCOUNTTYPE>incomestatement</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY></CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>L2400</ACCOUNTNO>
-                              <TITLE>PAYABLE TO OTHER AGENCY FUNDS</TITLE>
-                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
-                              <NORMALBALANCE>credit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY></CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>L2021</ACCOUNTNO>
-                              <TITLE>Interest Payable to Funder</TITLE>
-                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
-                              <NORMALBALANCE>credit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY></CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>L8023</ACCOUNTNO>
-                              <TITLE>LEASE LIABILITY - ST OPERATING</TITLE>
-                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY></CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>A6502</ACCOUNTNO>
-                              <TITLE>Right of Use Asset - Building: Operating Leases</TITLE>
-                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY></CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>A6503</ACCOUNTNO>
-                              <TITLE>Right of Use Asset - Office Equipment: Finance Leases</TITLE>
-                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY></CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>A6504</ACCOUNTNO>
-                              <TITLE>Right of Use Asset - Office Equipment: Operating Leases</TITLE>
-                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY></CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>L8022</ACCOUNTNO>
-                              <TITLE>LEASE LIABILITY - LT OPERATING</TITLE>
-                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY></CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>A2715</ACCOUNTNO>
-                              <TITLE>A/R - Lessor Incentives</TITLE>
-                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY></CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>A6901</ACCOUNTNO>
-                              <TITLE>ACCUMULATED AMORTIZATION - FINANCE LEASE</TITLE>
-                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY></CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>L8021</ACCOUNTNO>
-                              <TITLE>LEASE LIABILITY - LT FINANCE</TITLE>
-                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY></CATEGORY>
-                        </GLACCOUNT>
-                        <GLACCOUNT>
-                              <ACCOUNTNO>A6501</ACCOUNTNO>
-                              <TITLE>RIGHT OF USE ASSET - BUILDING: FINANCE LEASES</TITLE>
-                              <ACCOUNTTYPE>balancesheet</ACCOUNTTYPE>
-                              <NORMALBALANCE>debit</NORMALBALANCE>
-                              <STATUS>active</STATUS>
-                              <CATEGORY></CATEGORY>
-                        </GLACCOUNT>
+                  <data listtype="All" count="1">
+                           <Type Name="GLBUDGETHEADER" DocumentType="">
+                                 <Fields>
+                                       <Field>
+                                             <ID>RECORDNO</ID>
+                                             <LABEL>Record number</LABEL>
+                                             <DESCRIPTION>Record number</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>true</READONLY>
+                                             <DATATYPE>INTEGER</DATATYPE>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>BUDGETID</ID>
+                                             <LABEL>Budget ID</LABEL>
+                                             <DESCRIPTION>Budget ID</DESCRIPTION>
+                                             <REQUIRED>true</REQUIRED>
+                                             <READONLY>false</READONLY>
+                                             <DATATYPE>TEXT</DATATYPE>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>DESCRIPTION</ID>
+                                             <LABEL>Description</LABEL>
+                                             <DESCRIPTION>Description</DESCRIPTION>
+                                             <REQUIRED>true</REQUIRED>
+                                             <READONLY>false</READONLY>
+                                             <DATATYPE>TEXT</DATATYPE>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>SYSTEMGENERATED</ID>
+                                             <LABEL>System generated</LABEL>
+                                             <DESCRIPTION>True/false</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>false</READONLY>
+                                             <DATATYPE>ENUM</DATATYPE>
+                                             <VALIDVALUES>
+                                                   <VALIDVALUE>true</VALIDVALUE>
+                                                   <VALIDVALUE>false</VALIDVALUE>
+                                             </VALIDVALUES>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>DEFAULT_BUDGET</ID>
+                                             <LABEL>Default budget</LABEL>
+                                             <DESCRIPTION>Default budget</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>false</READONLY>
+                                             <DATATYPE>BOOLEAN</DATATYPE>
+                                             <VALIDVALUES>
+                                                   <VALIDVALUE>true</VALIDVALUE>
+                                                   <VALIDVALUE>false</VALIDVALUE>
+                                             </VALIDVALUES>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>USER</ID>
+                                             <LABEL>Modified by</LABEL>
+                                             <DESCRIPTION>Modified by</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>false</READONLY>
+                                             <DATATYPE>TEXT</DATATYPE>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>STATUS</ID>
+                                             <LABEL>Status</LABEL>
+                                             <DESCRIPTION>Active or inactive</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>false</READONLY>
+                                             <DATATYPE>TEXT</DATATYPE>
+                                             <VALIDVALUES>
+                                                   <VALIDVALUE>active</VALIDVALUE>
+                                                   <VALIDVALUE>inactive</VALIDVALUE>
+                                             </VALIDVALUES>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>WHENCREATED</ID>
+                                             <LABEL>When created</LABEL>
+                                             <DESCRIPTION>Timestamp marking last time this was created.</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>true</READONLY>
+                                             <DATATYPE>TIMESTAMP</DATATYPE>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>WHENMODIFIED</ID>
+                                             <LABEL>When modified</LABEL>
+                                             <DESCRIPTION>Timestamp marking last time this was changed.</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>true</READONLY>
+                                             <DATATYPE>TIMESTAMP</DATATYPE>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>CREATEDBY</ID>
+                                             <LABEL>Created by</LABEL>
+                                             <DESCRIPTION>User who created this.</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>true</READONLY>
+                                             <DATATYPE>INTEGER</DATATYPE>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>MODIFIEDBY</ID>
+                                             <LABEL>Modified by</LABEL>
+                                             <DESCRIPTION>User who modified this.</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>true</READONLY>
+                                             <DATATYPE>INTEGER</DATATYPE>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>ISCONSOLIDATED</ID>
+                                             <LABEL>Single currency budget</LABEL>
+                                             <DESCRIPTION>Single currency budget</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>false</READONLY>
+                                             <DATATYPE>BOOLEAN</DATATYPE>
+                                             <VALIDVALUES>
+                                                   <VALIDVALUE>true</VALIDVALUE>
+                                                   <VALIDVALUE>false</VALIDVALUE>
+                                             </VALIDVALUES>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>CURRENCY</ID>
+                                             <LABEL>Consolidated currency</LABEL>
+                                             <DESCRIPTION>Consolidated currency</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>false</READONLY>
+                                             <DATATYPE>TEXT</DATATYPE>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>ISPABUDGET</ID>
+                                             <LABEL>Project Code estimate</LABEL>
+                                             <DESCRIPTION>Project Code estimate</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>false</READONLY>
+                                             <DATATYPE>BOOLEAN</DATATYPE>
+                                             <VALIDVALUES>
+                                                   <VALIDVALUE>true</VALIDVALUE>
+                                                   <VALIDVALUE>false</VALIDVALUE>
+                                             </VALIDVALUES>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>ISPCNBUDGET</ID>
+                                             <LABEL>Project Code contract</LABEL>
+                                             <DESCRIPTION>Project Code contract</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>false</READONLY>
+                                             <DATATYPE>BOOLEAN</DATATYPE>
+                                             <VALIDVALUES>
+                                                   <VALIDVALUE>true</VALIDVALUE>
+                                                   <VALIDVALUE>false</VALIDVALUE>
+                                             </VALIDVALUES>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>MEGAENTITYKEY</ID>
+                                             <LABEL>Created at - Entity key</LABEL>
+                                             <DESCRIPTION>No description specified</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>true</READONLY>
+                                             <DATATYPE>INTEGER</DATATYPE>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>MEGAENTITYID</ID>
+                                             <LABEL>Created at - Entity ID</LABEL>
+                                             <DESCRIPTION>No description specified</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>true</READONLY>
+                                             <DATATYPE>TEXT</DATATYPE>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>MEGAENTITYNAME</ID>
+                                             <LABEL>Created at - Entity name</LABEL>
+                                             <DESCRIPTION>No description specified</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>true</READONLY>
+                                             <DATATYPE>TEXT</DATATYPE>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>EXTERNALID</ID>
+                                             <LABEL>External ID</LABEL>
+                                             <DESCRIPTION>No description specified</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>false</READONLY>
+                                             <DATATYPE>TEXT</DATATYPE>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                       <Field>
+                                             <ID>RECORD_URL</ID>
+                                             <LABEL>Record URL</LABEL>
+                                             <DESCRIPTION>A portable, user-independent, deep-link URL for viewing this record</DESCRIPTION>
+                                             <REQUIRED>false</REQUIRED>
+                                             <READONLY>true</READONLY>
+                                             <DATATYPE>TEXT</DATATYPE>
+                                             <ISCUSTOM>false</ISCUSTOM>
+                                       </Field>
+                                 </Fields>
+                                 <Relationships>
+                                       <Relationship>
+                                             <OBJECTPATH>MELOCATION</OBJECTPATH>
+                                             <OBJECTNAME>LOCATION</OBJECTNAME>
+                                             <LABEL>Created at entity information</LABEL>
+                                             <RELATIONSHIPTYPE>MANY2ONE</RELATIONSHIPTYPE>
+                                             <RELATEDBY>MEGAENTITYID</RELATEDBY>
+                                       </Relationship>
+                                       <Relationship>
+                                             <OBJECTPATH>INTEGRATIONDETAIL</OBJECTPATH>
+                                             <OBJECTNAME>INTEGRATIONDETAIL</OBJECTNAME>
+                                             <LABEL>Integration details</LABEL>
+                                             <RELATIONSHIPTYPE>MANY2ONE</RELATIONSHIPTYPE>
+                                             <RELATEDBY>RECORD#</RELATEDBY>
+                                       </Relationship>
+                                 </Relationships>
+                           </Type>
                   </data>
             </result>
       </operation>

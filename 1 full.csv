@@ -1,0 +1,863 @@
+0,L8020,CAPITAL LEASE PAYABLE,balancesheet,credit,active,Capital Lease - Long Term
+1,A1005,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+2,A1006,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+3,A1007,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+4,A1008,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+5,A1009,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+6,A1010,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+7,A1011,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+8,A1012,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+9,A1013,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+10,A1014,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+11,A1015,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+12,A1016,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+13,A1017,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+14,A1018,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+15,A1019,US TREASURY NOTES & BILLS,balancesheet,debit,active,Long Term Investments
+16,A1020,UNAMORTZED TREASURY DISCOUNTS,balancesheet,debit,active,Long Term Investments
+17,A1100,OTHER GOVERNMENT BONDS,balancesheet,debit,active,Long Term Investments
+18,A1200,CORPORATE BONDS,balancesheet,debit,active,Long Term Investments
+19,A1300,PREFERRED STOCKS,balancesheet,debit,active,Long Term Investments
+20,A1500,EAST-WEST CENTER INVESTMENTS,balancesheet,debit,active,Long Term Investments
+21,A1501,FIRST HAWAIIAN INVESTMENT MGT,balancesheet,debit,active,Long Term Investments
+22,A1502,BANK OF HAWAII INVESTMENT MGT,balancesheet,debit,active,Long Term Investments
+23,A1700,MORTGAGE NOTES,balancesheet,debit,active,Long Term Investments
+24,A1800,REAL ESTATE,balancesheet,debit,active,Long Term Investments
+25,A1901,FIDELITY INVESTMENTS - CKW,balancesheet,debit,active,Long Term Investments
+26,A1905,MORGAN STANLEY SMITH BARNEY,balancesheet,debit,active,Long Term Investments
+27,A1900,OTHER INVESTMENTS,balancesheet,debit,active,Long Term Investments
+28,E3230,PUBLIC NOTICES,incomestatement,debit,active,Advertising and Promotion Expense
+29,E3231,PUBLIC NOTICES ADVERTISEMENTS,incomestatement,debit,active,Advertising and Promotion Expense
+30,E3151,COMPUTER EQUIPMENT RENTALS,incomestatement,debit,active,Equipment Rental Expense
+31,E3152,Computer - Service Charge,incomestatement,debit,active,Equipment Rental Expense
+32,E3153,Lease Amortization Expense,incomestatement,debit,active,Equipment Rental Expense
+33,E3154,Lease Interest Expense,incomestatement,debit,active,Equipment Rental Expense
+34,E3155,Lease - Premises Variable Costs,incomestatement,debit,active,Equipment Rental Expense
+35,E3156,Lease Expense - Operating Leases,incomestatement,debit,active,Equipment Rental Expense
+36,E3220,INSURANCE,incomestatement,debit,active,Insurance Expense
+37,E3221,INS GENERAL LIABILITY,incomestatement,debit,active,Insurance Expense
+38,E3222,INS VEHICLE,incomestatement,debit,active,Insurance Expense
+39,E3223,INS SURETY BOND,incomestatement,debit,active,Insurance Expense
+40,E3224,INS FIRE & EXTENDED COVERAGE,incomestatement,debit,active,Insurance Expense
+41,E3225,OTHER INSURANCE,incomestatement,debit,active,Insurance Expense
+42,E3211,AUDIT & TAX SERVICES,incomestatement,debit,active,Legal and Accounting Expense
+43,E3212,LEGAL COUNSEL,incomestatement,debit,active,Legal and Accounting Expense
+44,E3302,POSTAGE & SHIPPING,incomestatement,debit,active,Postage and Delivery Expense
+45,E3306,POSTAGE/SHIPPING - PUBLICATION,incomestatement,debit,active,Postage and Delivery Expense
+46,E3308,POSTAGE/SHIPPING-ORDER FULFILL,incomestatement,debit,active,Postage and Delivery Expense
+47,E3399,METERED MAIL,incomestatement,debit,active,Postage and Delivery Expense
+48,E3101,PROFESSIONAL FEES-US RESIDENT,incomestatement,debit,active,Professional Services Expense
+49,E3102,TRAVEL CONSULTANT,incomestatement,debit,active,Professional Services Expense
+50,E3103,RENTAL OF REAL/PERSONAL PROPERTY,incomestatement,debit,active,Professional Services Expense
+51,E3104,PROFESIONAL FEES,incomestatement,debit,active,Professional Services Expense
+52,E3105,PROF FEES-NONRESIDENT-W/IN US,incomestatement,debit,active,Professional Services Expense
+53,E3106,PROF FEES-NONRESIDENT-OUTSIDE,incomestatement,debit,active,Professional Services Expense
+54,E3107,PROF FEES-NONRES-W/IN US TAX,incomestatement,debit,active,Professional Services Expense
+55,E3108,PROF FEES-NONRES-W/IN US TAX T,incomestatement,debit,active,Professional Services Expense
+56,E3110,SERVICE AGREEMENTS MAINT EQUIP,incomestatement,debit,active,Professional Services Expense
+57,E3111,SERVICE AGREEMENTS SECURITY,incomestatement,debit,active,Professional Services Expense
+58,E3112,SERVICE AGREEMENTS GR MAINT,incomestatement,debit,active,Professional Services Expense
+59,E3113,SERVICE AGREEMENTS CLEANING,incomestatement,debit,active,Professional Services Expense
+60,E3114,SERVICE AGREEMENTS REP & MAINT,incomestatement,debit,active,Professional Services Expense
+61,E3121,ACADEMIC HONORARIA (C&G),incomestatement,debit,active,Professional Services Expense
+62,E3122,EWC HONORARIA,incomestatement,debit,active,Professional Services Expense
+63,E3123,REVIEW HONORARIA,incomestatement,debit,active,Professional Services Expense
+64,E3140,ON-CAMPUS CONSULTANTS,incomestatement,debit,active,Professional Services Expense
+65,E3141,OFF-CAMPUS CONSULTANTS,incomestatement,debit,active,Professional Services Expense
+66,E3150,COMPUTER SERVICES,incomestatement,debit,active,Professional Services Expense
+67,E3170,VIDEO,incomestatement,debit,active,Professional Services Expense
+68,E3210,CENTERWIDE PROFESSIONAL SVCS,incomestatement,debit,active,Professional Services Expense
+69,E3401,EDITING - FREELANCE,incomestatement,debit,active,Professional Services Expense
+70,E3402,CARTOGRAPHY,incomestatement,debit,active,Professional Services Expense
+71,E3403,DESIGN & PRODUCTION,incomestatement,debit,active,Professional Services Expense
+72,E3404,PHOTOGRAPHY,incomestatement,debit,active,Professional Services Expense
+73,E3405,COMPOSITION,incomestatement,debit,active,Professional Services Expense
+74,E3406,"PRINTING,PAPER & BINDING",incomestatement,debit,active,Professional Services Expense
+75,E3410,PRINTING/REPRO - PUBLICATION,incomestatement,debit,active,Professional Services Expense
+76,E3411,EDITING - FREELANCE,incomestatement,debit,active,Professional Services Expense
+77,E3412,CARTOGRAPHY,incomestatement,debit,active,Professional Services Expense
+78,E3413,DESIGN & PRODUCTION,incomestatement,debit,active,Professional Services Expense
+79,E3414,PHOTOGRAPHY,incomestatement,debit,active,Professional Services Expense
+80,E3415,COMPOSITION,incomestatement,debit,active,Professional Services Expense
+81,E3416,"PRINTING,PAPER & BINDING",incomestatement,debit,active,Professional Services Expense
+82,E3421,EDITING - FREELANCE,incomestatement,debit,active,Professional Services Expense
+83,E3422,CARTOGRAPHY,incomestatement,debit,active,Professional Services Expense
+84,E3423,DESIGN & PRODUCTION,incomestatement,debit,active,Professional Services Expense
+85,E3424,PHOTOGRAPHY,incomestatement,debit,active,Professional Services Expense
+86,E3425,COMPOSITION,incomestatement,debit,active,Professional Services Expense
+87,E3431,EDITING - FREELANCE,incomestatement,debit,active,Professional Services Expense
+88,E3432,CARTOGRAPHY,incomestatement,debit,active,Professional Services Expense
+89,E3433,DESIGN & PRODUCTION,incomestatement,debit,active,Professional Services Expense
+90,E3434,PHOTOGRAPHY,incomestatement,debit,active,Professional Services Expense
+91,E3435,COMPOSITION,incomestatement,debit,active,Professional Services Expense
+92,E3499,PRINTING INVENTORY,incomestatement,debit,active,Professional Services Expense
+93,E3510,MINOR IMPROVEMENTS,incomestatement,debit,active,Repairs and Maintenance Expense
+94,E3520,REPAIRS & MAINTENANCE,incomestatement,debit,active,Repairs and Maintenance Expense
+95,E1101,PERM WAGES ADMINISTRATIVE,incomestatement,debit,active,Salary and Wage Expense
+96,E1102,PERM WAGES RESEARCHERS,incomestatement,debit,active,Salary and Wage Expense
+97,E1103,PERM WAGES ACADEMIC SUPP,incomestatement,debit,active,Salary and Wage Expense
+98,E1104,PERM WAGES CLERICAL & SEC,incomestatement,debit,active,Salary and Wage Expense
+99,E1105,PERM WAGES JOINT APPOINTEES,incomestatement,debit,active,Salary and Wage Expense
+100,E1106,JURY DUTY - WITNESS REFUNDS,incomestatement,debit,active,Salary and Wage Expense
+101,E1201,OTHER WAGES TEMPORARY,incomestatement,debit,active,Salary and Wage Expense
+102,E1203,OTHER WAGES CASUAL,incomestatement,debit,active,Salary and Wage Expense
+103,E1205,Other Wages UH Student,incomestatement,debit,active,Salary and Wage Expense
+104,E1206,WAGES-TEMP STAFFING AGENCIES,incomestatement,debit,active,Salary and Wage Expense
+105,E1208,COLA Backpay Settlement,incomestatement,debit,active,Salary and Wage Expense
+106,E1209,SEVERANCE,incomestatement,debit,active,Salary and Wage Expense
+107,A0999,CASH CLEARING,balancesheet,debit,active,Cash and Cash Equivalents
+108,A0111,CASH IN BANK-FHB SWEEP ACCOUNT,balancesheet,debit,active,Cash and Cash Equivalents
+109,A0010,PETTY CASH FUNDS,balancesheet,debit,active,Cash and Cash Equivalents
+110,A0020,EXCHANGE FOR CASH,balancesheet,debit,active,Cash and Cash Equivalents
+111,A0030,CHANGE FUND HALE MANOA,balancesheet,debit,active,Cash and Cash Equivalents
+112,A0031,CHANGE FUND HALE KUAHINE,balancesheet,debit,active,Cash and Cash Equivalents
+113,A0032,CHANGE FUND LINCOLN HALL,balancesheet,debit,active,Cash and Cash Equivalents
+114,A0033,CHANGE FUND HSG VENDING,balancesheet,debit,active,Cash and Cash Equivalents
+115,A0034,CHANGE FUND PUBLICATIONS,balancesheet,debit,active,Cash and Cash Equivalents
+116,A0035,CHANGE FUND CASHIER,balancesheet,debit,active,Cash and Cash Equivalents
+117,A0036,PETTY CASH FUND - ALUMNI,balancesheet,debit,active,Cash and Cash Equivalents
+118,A0037,PETTY CASH FUND - ADVANCES,balancesheet,debit,active,Cash and Cash Equivalents
+119,A0038,PETTY CASH FUND - PRESIDENT'S,balancesheet,debit,active,Cash and Cash Equivalents
+120,A0039,PETTY CASH FUND-MAIL SERVICES,balancesheet,debit,active,Cash and Cash Equivalents
+121,A0040,PETTY CASH FUND - PDC,balancesheet,debit,active,Cash and Cash Equivalents
+122,A0041,PETTY CASH FUND - DC OFFICE,balancesheet,debit,active,Cash and Cash Equivalents
+123,A0042,PETTY CASH FUND-EWC FDN,balancesheet,debit,active,Cash and Cash Equivalents
+124,A0110,Cash In Bank - General Account,balancesheet,debit,active,Cash and Cash Equivalents
+125,A0115,CASH IN BANK-WASHINGTON DC,balancesheet,debit,active,Cash and Cash Equivalents
+126,A0200,CASH IN BANK - BOH CHECKING,balancesheet,debit,active,Cash and Cash Equivalents
+127,A0401,BANK OF HAWAII - SECURED TCD,balancesheet,debit,active,Cash and Cash Equivalents
+128,A0402,BANK OF HAWAII - SECURED TCD,balancesheet,debit,active,Cash and Cash Equivalents
+129,A0403,BANK OF HAWAII - SECURED TCD,balancesheet,debit,active,Cash and Cash Equivalents
+130,A0404,BANK OF HAWAII - SECURED TCD,balancesheet,debit,active,Cash and Cash Equivalents
+131,A0405,BANK OF HAWAII - SECURED TCD,balancesheet,debit,active,Cash and Cash Equivalents
+132,A0406,BANK OF HAWAII - SECURED TCD,balancesheet,debit,active,Cash and Cash Equivalents
+133,A0407,BANK OF HAWAII - SECURED TCD,balancesheet,debit,active,Cash and Cash Equivalents
+134,A0408,BANK OF HAWAII - SECURED TCD,balancesheet,debit,active,Cash and Cash Equivalents
+135,A0409,BANK OF HAWAII - SECURED TCD,balancesheet,debit,active,Cash and Cash Equivalents
+136,A0410,Bank of Hawaii-Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+137,A0411,Bank of Hawaii-Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+138,A0412,Bank of Hawaii Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+139,A0413,Bank of Hawaii Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+140,A0414,Bank of Hawaii Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+141,A0415,Bank of Hawaii-Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+142,A0416,Bank of Hawaii-Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+143,A0417,Bank of Hawaii-Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+144,A0418,Bank of Hawaii-Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+145,A0419,Bank of Hawaii-Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+146,A0420,Bank of Hawaii-Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+147,A0421,Bank of Hawaii-Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+148,A0422,Bank of Hawaii-Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+149,A0423,Bank of Hawaii-Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+150,A0424,Bank of Hawaii-Secured TCD,balancesheet,debit,active,Cash and Cash Equivalents
+151,A0500,CASH IN BANK - SAVINGS ACCOUNT,balancesheet,debit,active,Cash and Cash Equivalents
+152,A0501,CASH IN PBEC ACCOUNTS,balancesheet,debit,active,Cash and Cash Equivalents
+153,A0502,AMERICAN SAVINGS,balancesheet,debit,active,Cash and Cash Equivalents
+154,A0509,BANK OF AMERICA,balancesheet,debit,active,Cash and Cash Equivalents
+155,A0511,FIRST HAWAIIAN BANK TCD,balancesheet,debit,active,Cash and Cash Equivalents
+156,A0512,FHB MAXI-ENDOWMENT,balancesheet,debit,active,Cash and Cash Equivalents
+157,A0513,FIRST HAWAIIAN BANK TCD,balancesheet,debit,active,Cash and Cash Equivalents
+158,A0514,FIRST HAWAIIAN TCD,balancesheet,debit,active,Cash and Cash Equivalents
+159,A0515,FIRST HAWAIIAN BANK TCD,balancesheet,debit,active,Cash and Cash Equivalents
+160,A0517,AMERICAN SAVINGS,balancesheet,debit,active,Cash and Cash Equivalents
+161,A0520,FIRST HAWAIIAN BANK TCD,balancesheet,debit,active,Cash and Cash Equivalents
+162,A0521,ALUMNI/AMERICAN SAVINGS TCD,balancesheet,debit,active,Cash and Cash Equivalents
+163,A0525,FIRST HAWAIIAN BANK TCD,balancesheet,debit,active,Cash and Cash Equivalents
+164,A0530,FIRST HAWAIIAN BANK TCD-GENERA,balancesheet,debit,active,Cash and Cash Equivalents
+165,A0531,FIRST HAWAIIAN BANK TCD-GENERA,balancesheet,debit,active,Cash and Cash Equivalents
+166,A0532,FIRST HAWAIIAN BANK TCD 399504,balancesheet,debit,active,Cash and Cash Equivalents
+167,A0533,FIRST HAWAIIAN BANK TCD 39950,balancesheet,debit,active,Cash and Cash Equivalents
+168,A0534,FIRST HAWAIIAN BANK TCD 399506,balancesheet,debit,active,Cash and Cash Equivalents
+169,A0535,FIRST HAWAIIAN BANK TCD,balancesheet,debit,active,Cash and Cash Equivalents
+170,A0536,FIRST HAWAIIAN BANK TCD-HOUSIN,balancesheet,debit,active,Cash and Cash Equivalents
+171,A0537,FIRST HAWAIIAN BANK TCD-HOUSIN,balancesheet,debit,active,Cash and Cash Equivalents
+172,A0538,BANK OF HAWAII TCD 6075442,balancesheet,debit,active,Cash and Cash Equivalents
+173,A0539,FIRST FEDERAL S&L TCD,balancesheet,debit,active,Cash and Cash Equivalents
+174,A0540,BANK OF HAWAII TCD,balancesheet,debit,active,Cash and Cash Equivalents
+175,A0550,INTERNATIONAL S&L TCD,balancesheet,debit,active,Cash and Cash Equivalents
+176,A0551,TERRITORIAL S&L TCD,balancesheet,debit,active,Cash and Cash Equivalents
+177,A0900,MERRILL LYNCH READY ASSET FUND,balancesheet,debit,active,Cash and Cash Equivalents
+178,A2400,A/R FACULTY & STAFF,balancesheet,debit,active,Cash and Cash Equivalents
+179,A0011,NEED DESCRIPTION,balancesheet,debit,active,Cash and Cash Equivalents
+180,A1999,Undeposited Funds,balancesheet,debit,active,Cash and Cash Equivalents
+181,A0043,PETTY CASH FUND - IMIN,balancesheet,debit,active,Cash and Cash Equivalents
+182,A6999,FIXED ASSETS CLEARING,balancesheet,debit,active,Fixed Assets
+183,A6414,LEASEHOLD IMPROVEMENT,balancesheet,debit,active,Fixed Assets
+184,A6100,LAND,balancesheet,debit,active,Fixed Assets
+185,A6200,IMPROVEMENTS NOT BUILDINGS,balancesheet,debit,active,Fixed Assets
+186,A6300,BUILDINGS,balancesheet,debit,active,Fixed Assets
+187,A6400,EQUIPMENT & FURNISHINGS,balancesheet,debit,active,Fixed Assets
+188,A6401,GENERAL EQUIPMENT,balancesheet,debit,active,Fixed Assets
+189,A6402,E&F OFFICE EQUIPMENT,balancesheet,debit,active,Fixed Assets
+190,A6403,E&F BUILDING IMPROVEMENTS,balancesheet,debit,active,Fixed Assets
+191,A6404,E&F MOTOR VEHICLES,balancesheet,debit,active,Fixed Assets
+192,A6405,E&F AUDIO VISUAL EQUIPMENT,balancesheet,debit,active,Fixed Assets
+193,A6406,E&F BOOKS,balancesheet,debit,active,Fixed Assets
+194,A6407,E&F EDUCATIONAL EQUIPMENT,balancesheet,debit,active,Fixed Assets
+195,A6408,E&F DORMITORY EQUIPMENT,balancesheet,debit,active,Fixed Assets
+196,A6409,FOOD SERVICE EQUIPMENT,balancesheet,debit,active,Fixed Assets
+197,A6410,COMPUTER EQUIPMENT,balancesheet,debit,active,Fixed Assets
+198,A6411,PHOTOGRAPHIC & REPRODUCTION,balancesheet,debit,active,Fixed Assets
+199,A6412,GROUNDS IMPROVEMENT,balancesheet,debit,active,Fixed Assets
+200,A6413,COMMUNICATIONS EQUIPMENT,balancesheet,debit,active,Fixed Assets
+201,A6900,ACCUMULATED DEPRECIATION,balancesheet,debit,active,Fixed Assets
+202,L9100,PAYABLE TO EWC FOUNDATION,balancesheet,credit,active,Intercompany Payable
+203,L9200,PAYABLE TO EWC,balancesheet,credit,active,Intercompany Payable
+204,E3213,INTEREST,incomestatement,debit,active,Interest Expense
+205,R6101,SALES DP SERVICES,incomestatement,credit,active,Revenue - Other
+206,R6110,VEHICLE,incomestatement,credit,active,Revenue - Other
+207,R6115,VEHICLE-RESERVE FOR R&M,incomestatement,credit,active,Revenue - Other
+208,R6120,PUBS-ORDER FULFILLMENT,incomestatement,credit,active,Revenue - Other
+209,R6130,MAIL & MESSENGER,incomestatement,credit,active,Revenue - Other
+210,R6140,MAIL SERVICES,incomestatement,credit,active,Revenue - Other
+211,R6150,AUDIO,incomestatement,credit,active,Revenue - Other
+212,R6160,PUBS-PRODUCTION,incomestatement,credit,active,Revenue - Other
+213,R6170,VIDEO,incomestatement,credit,active,Revenue - Other
+214,R6180,PHOTOGRAPHY,incomestatement,credit,active,Revenue - Other
+215,R6190,ID CARDS/DIRECTORY,incomestatement,credit,active,Revenue - Other
+216,R6113,PARKING-IMIN (EWC),incomestatement,credit,active,Revenue - Other
+217,R6117,PARKING-FACILITIES (EWC),incomestatement,credit,active,Revenue - Other
+218,R6112,PARKING-IMIN (EXTERNAL),incomestatement,credit,active,Revenue - Other
+219,R6116,PARKING-FACILITIES (EXTERNAL),incomestatement,credit,active,Revenue - Other
+220,E3163,Payroll & FSA Processing Fees,incomestatement,debit,active,Payroll Expense
+221,E3215,PERSONNEL SERVICE FEE,incomestatement,debit,active,Payroll Expense
+222,E3216,AMORTIZATION OF FINANCE LEASE,incomestatement,debit,active,Payroll Expense
+223,E3691,General Excise Taxes,incomestatement,debit,active,Taxes
+224,E3693,OTHER TAXES,incomestatement,debit,active,Taxes
+225,A2050,TCD RECEIVABLE,balancesheet,debit,active,Short-Term Investments
+226,A4300,TRAVEL ADVANCES,balancesheet,debit,active,Other Assets
+227,A4400,OTHER,balancesheet,debit,active,Other Assets
+228,A4500,ADVANCES PART RESOURCES,balancesheet,debit,active,Other Assets
+229,A4501,PARTICIPANT MEDICAL PREMIUMS,balancesheet,debit,active,Other Assets
+230,A4600,PARTICIPANT LOAN PROGRAM,balancesheet,debit,active,Other Assets
+231,A4700,LD TELEPHONE CHARGES,balancesheet,debit,active,Other Assets
+232,A5010,CENTRAL STORES,balancesheet,debit,active,Other Assets
+233,A5015,PREPAID PHONE CARD INVENTORY,balancesheet,debit,active,Other Assets
+234,A5100,PRINTING SERVICES INVENTORY,balancesheet,debit,active,Other Assets
+235,A7100,OTHER ASSETS,balancesheet,debit,active,Other Assets
+236,A7101,SECURITY DEPOSIT-RENT,balancesheet,debit,active,Other Assets
+237,A7110,BENEFICIAL INT REMAINDER TRUST,balancesheet,debit,active,Other Assets
+238,A7200,ORGANIZATIONAL EXPENSES,balancesheet,debit,active,Other Assets
+239,F0010,FUND BALANCE-UNREALIZED GAIN,balancesheet,credit,active,Net Assets
+240,F0000,FUND BALANCE,balancesheet,credit,active,Net Assets
+241,E3161,VOLUNTEER SERVICES,incomestatement,debit,active,Other Expenses
+242,E3250,MISCELLANEOUS EXPENSE,incomestatement,debit,active,Other Expenses
+243,E3801,EARNINGS TRANSFERS TO EWC,incomestatement,debit,active,Other Expenses
+244,E3802,PRINCIPAL TRANSFERS TO EWC,incomestatement,debit,active,Other Expenses
+245,E8100,INCOME RESERVE,incomestatement,debit,active,Other Expenses
+246,E8200,EXPENSE RESERVE - TRANSFERS,incomestatement,debit,active,Other Expenses
+247,E8300,PRIOR YEAR RESERVE,incomestatement,debit,active,Other Expenses
+248,E8400,EXPENSE RESERVE,incomestatement,debit,active,Other Expenses
+249,E9025,EWC FDN ADMINISTRATIVE COSTS,incomestatement,debit,active,Other Expenses
+250,E9030,EWC FDN FUNDRAISING COSTS,incomestatement,debit,active,Other Expenses
+251,E9100,TRANSFERS EWC TO FOUNDATION,incomestatement,debit,active,Other Expenses
+252,E9900,SUSPENSE DEBIT,incomestatement,debit,active,Other Expenses
+253,R9900,SUSPENSE CREDIT,incomestatement,debit,active,Other Expenses
+254,R9000,EWC FOUNDATION EXPENDITURES,incomestatement,credit,active,Other Income
+255,R9100,INTERFUND TRANSFERS,incomestatement,credit,active,Other Income
+256,R9200,TRANSFERS TO EAST-WEST CENTER,incomestatement,credit,active,Other Income
+257,R9820,TRF FROM/TO UNRESTRICTED FUNDS,incomestatement,credit,active,Other Income
+258,R9825,TRF FROM/TO TEMP RESTRICTED,incomestatement,credit,active,Other Income
+259,R9830,ADDITIONS - OTHER,incomestatement,credit,active,Other Income
+260,R9840,ADDITIONS-RETIREMENT OF INDEBT,incomestatement,credit,active,Other Income
+261,R9870,DEPRECIATION,incomestatement,credit,inactive,Other Income
+262,R9875,DISPOSAL OF PLANT FACILITIES,incomestatement,credit,active,Other Income
+263,R7100,OTHER INCOME REC INDIRECT COST,incomestatement,credit,active,Other Income
+264,R7300,OTHER INCOME VENDING MACHINES,incomestatement,credit,active,Other Income
+265,R7400,OTHER INCOME MISCELLANEOUS,incomestatement,credit,active,Other Income
+266,R7500,PRIOR YEAR REVENUE,incomestatement,credit,active,Other Income
+267,A2200,ACCRUED INTEREST RECEIVABLE,balancesheet,debit,active,Accounts Receivable
+268,A2500,A/R UNIVERSITY OF HAWAII,balancesheet,debit,active,Accounts Receivable
+269,A2600,A/R FOOD SERVICE,balancesheet,debit,active,Accounts Receivable
+270,A2610,A/R VENDING,balancesheet,debit,active,Accounts Receivable
+271,A2700,A/R OTHER,balancesheet,debit,active,Accounts Receivable
+272,A2710,A/R OTHER/COST SHARING,balancesheet,debit,active,Accounts Receivable
+273,A2719,A/R HI EXEMPLARY STATE FDN,balancesheet,debit,active,Accounts Receivable
+274,A2720,A/R YATAI INTL PHIL ED FDN,balancesheet,debit,active,Accounts Receivable
+275,A2721,A/R HCAF FKA UH PBRC,balancesheet,debit,active,Accounts Receivable
+276,A2722,A/R CHINA PHIL RES INST,balancesheet,debit,active,Accounts Receivable
+277,A2723,A/R GLOBAL YOUTH CENTER,balancesheet,debit,active,Accounts Receivable
+278,A2724,A/R FREEMAN Fdn,balancesheet,debit,active,Accounts Receivable
+279,A2725,A/R FRIENDS OF THE EWC,balancesheet,debit,active,Accounts Receivable
+280,A2726,A/R THE ROSHAN INSTITUTE,balancesheet,debit,active,Accounts Receivable
+281,A2727,A/R NEW VENTURE-R3ADY,balancesheet,debit,active,Accounts Receivable
+282,A2728,A/R COMM ON NATL & COMMNTY SVC,balancesheet,debit,active,Accounts Receivable
+283,A2729,A/R RCUH,balancesheet,debit,active,Accounts Receivable
+284,A272A,A/R PACIFIC BASIN DEVELOP COUN,balancesheet,debit,active,Accounts Receivable
+285,A272B,A/R PAC ISL CLIMATE CHNGE COOP,balancesheet,debit,active,Accounts Receivable
+286,A272C,A/R HAWAII GREEN GROWTH,balancesheet,debit,active,Accounts Receivable
+287,A272D,A/R - GE TAXABLE,balancesheet,debit,active,Accounts Receivable
+288,A2730,A/R PAAC,balancesheet,debit,active,Accounts Receivable
+289,A2731,A/R UH Curr Res Develop Group,balancesheet,debit,active,Accounts Receivable
+290,A2732,A/R UH OFF INTL EXCH 4083,balancesheet,debit,active,Accounts Receivable
+291,A2733,A/R UH OVP Comm Colleges,balancesheet,debit,active,Accounts Receivable
+292,A2734,A/R UH Dept of Psychology #1,balancesheet,debit,active,Accounts Receivable
+293,A2735,A/R UH Library (IMIN),balancesheet,debit,active,Accounts Receivable
+294,A2736,A/R UH Vice Chancellor Student,balancesheet,debit,active,Accounts Receivable
+295,A2737,A/R UH HI Pres Ctr Init,balancesheet,debit,active,Accounts Receivable
+296,A2738,A/R UH Dept of Pysch (10/09),balancesheet,debit,active,Accounts Receivable
+297,A2739,A/R UH Ctr Disability Studies,balancesheet,debit,active,Accounts Receivable
+298,A2740,EMPLOYEE FICA PRIOR YEARS,balancesheet,debit,active,Accounts Receivable
+299,A2800,RECEIVABLE FROM EWC,balancesheet,debit,active,Accounts Receivable
+300,A2990,ALLOWANCE DOUBTFUL RECEIVABLES,balancesheet,debit,active,Accounts Receivable
+301,A272E,A/R Buns Hawaii,balancesheet,debit,active,Accounts Receivable
+302,L2000,ACCOUNTS PAYABLE & ACCRUED EXP,balancesheet,credit,active,Accounts Payable
+303,L2005,Accounts Payable-BankofAmerica,balancesheet,credit,active,Accounts Payable
+304,L2012,Accounts Payable-Vendor (NPS),balancesheet,credit,active,Accounts Payable
+305,l2014,Accounts Payable - Certify,balancesheet,credit,active,Accounts Payable
+306,L2015,WIRE TRANSFER PAYABLE,balancesheet,credit,active,Accounts Payable
+307,L2016,FHB ACH PAYABLE,balancesheet,credit,active,Accounts Payable
+308,L2020,A/P UNIVERSITY OF HAWAII,balancesheet,credit,active,Accounts Payable
+309,L2010,ACCOUNTS PAYABLE,balancesheet,credit,active,Accounts Payable
+310,R8100,S&S AUX ENT FOOD SERVICE,incomestatement,credit,active,Revenue - Sales
+311,R8110,S&S AUX ENT VENDING MACHINE,incomestatement,credit,active,Revenue - Sales
+312,R8112,S&S AUX ENT VEND PHONE CARD,incomestatement,credit,active,Revenue - Sales
+313,R8200,S&S AUX ENT ROOM FEES SCHLARSH,incomestatement,credit,active,Revenue - Sales
+314,R8300,S&S AUX ENT ROOM FEES CASH,incomestatement,credit,active,Revenue - Sales
+315,R8400,S&S AUX ENT ROOM FEES OTHER,incomestatement,credit,active,Revenue - Sales
+316,R8500,S&S AUX ENT OTHER RESIDENCE HA,incomestatement,credit,active,Revenue - Sales
+317,R8501,DORMITORY REVENUE SUNDRY,incomestatement,credit,active,Revenue - Sales
+318,R8502,VENDING LAUNDRY,incomestatement,credit,active,Revenue - Sales
+319,R8600,S & S AUX ENT RESERVE R&M DORM,incomestatement,credit,active,Revenue - Sales
+320,R8700,Computer Rental Chargeback,incomestatement,credit,active,Revenue - Sales
+321,R8900,S&S AUX ENT OTHER ACTIVITY,incomestatement,credit,active,Revenue - Sales
+322,R6201,PUBLIC PROGRAMS - SUBSCRIPTION,incomestatement,credit,active,Revenue - Sales
+323,R6210,RIS INTERLIBRARY LOAN FEES,incomestatement,credit,active,Revenue - Sales
+324,R6220,CLI-HCH FILM FESTIVAL VIIE2,incomestatement,credit,active,Revenue - Sales
+325,R6230,INTL FILM FESTIVAL - FUND RAIS,incomestatement,credit,active,Revenue - Sales
+326,R6231,PD-FILM FESTIVAL REGISTRATION,incomestatement,credit,active,Revenue - Sales
+327,R6232,PD-FILM FEST TICKET HNDLG,incomestatement,credit,active,Revenue - Sales
+328,R6240,DEVELOPMENT DINNER,incomestatement,credit,active,Revenue - Sales
+329,R6260,CENTER ASSOC-DIRECTORY SUBSCRI,incomestatement,credit,active,Revenue - Sales
+330,R6261,CENTER ASSOC - CTR ASSOC CONFE,incomestatement,credit,active,Revenue - Sales
+331,R6262,CENTER ASSOC - FUND RAISING,incomestatement,credit,active,Revenue - Sales
+332,R6290,PARTICIPANT SERVICES-EWCPA,incomestatement,credit,active,Revenue - Sales
+333,R6300,PUBLICATIONS,incomestatement,credit,active,Revenue - Sales
+334,R6301,PUBLICATIONS - EWC GENERAL,incomestatement,credit,active,Revenue - Sales
+335,R6302,PUBLICATIONS - EWC AsiaPacEd,incomestatement,credit,active,Revenue - Sales
+336,R6303,PUBLICATIONS - EWC ENV,incomestatement,credit,active,Revenue - Sales
+337,R6304,PUBLICATIONS - EWC POP,incomestatement,credit,active,Revenue - Sales
+338,R6305,PUBLICATIONS-EWC FORMER STAFF,incomestatement,credit,active,Revenue - Sales
+339,R6306,PUBLICATIONS - EWC PIDP,incomestatement,credit,active,Revenue - Sales
+340,R6307,PUBLICATIONS-EWC ECON TECH INT,incomestatement,credit,active,Revenue - Sales
+341,R6308,PUBLICATIONS - EWC ET,incomestatement,credit,active,Revenue - Sales
+342,R6309,PUBLICATIONS - EWC GENERAL,incomestatement,credit,active,Revenue - Sales
+343,R630A,PUBLICATIONS - EWC PREM,incomestatement,credit,active,Revenue - Sales
+344,R630B,PUBLICATIONS - EWC PUB PROG,incomestatement,credit,active,Revenue - Sales
+345,R630C,PUBLICATIONS-EWC SPEC PROG,incomestatement,credit,active,Revenue - Sales
+346,R630D,PUBLICATIONS-EWC EDUC CULT INT,incomestatement,credit,active,Revenue - Sales
+347,R630E,Publications-EWC PUBS OFFICE,incomestatement,credit,active,Revenue - Sales
+348,R630F,PUBLICATIONS-EWC FORMER STAFF,incomestatement,credit,active,Revenue - Sales
+349,R6310,PUBLISHING ROYALTY - GENERAL,incomestatement,credit,active,Revenue - Sales
+350,R6311,PUB ROYALTY-EWC FORMER STAFF,incomestatement,credit,active,Revenue - Sales
+351,R6312,PUBLISHING ROYALTY - UHP,incomestatement,credit,active,Revenue - Sales
+352,R6313,PUBLISHING - UPH POP,incomestatement,credit,active,Revenue - Sales
+353,R6314,PUBLISHING - UHP REP,incomestatement,credit,active,Revenue - Sales
+354,R6315,PUB ROYALTY-UHP EWC FORMER STA,incomestatement,credit,active,Revenue - Sales
+355,R6316,PUBLISHING - UHP PIDP,incomestatement,credit,active,Revenue - Sales
+356,R6317,PUBLISHING-UHP EWC FORMER STAF,incomestatement,credit,active,Revenue - Sales
+357,R6320,PUBLISHING ROYALTY ENV,incomestatement,credit,active,Revenue - Sales
+358,R6321,ROYALTY - PERGAMON ENV,incomestatement,credit,active,Revenue - Sales
+359,R6322,PUB ROYALTY-CONTEMP ISSUES A/P,incomestatement,credit,active,Revenue - Sales
+360,R6323,ROYALTY - PERGAMON IEP,incomestatement,credit,active,Revenue - Sales
+361,R6324,PUB ROYALTY-CONTEMP ISSUES A/P,incomestatement,credit,active,Revenue - Sales
+362,R6325,PUBLICATIONS - HARADA PRINTS&C,incomestatement,credit,active,Revenue - Sales
+363,R6326,PUBLISHING ROYALTY MEDIA PROGR,incomestatement,credit,active,Revenue - Sales
+364,R6327,PUBLISHING ROYALTY ED CULT INT,incomestatement,credit,active,Revenue - Sales
+365,R6328,PUBLISHING ROYALTY POP,incomestatement,credit,active,Revenue - Sales
+366,R6329,Publishing Royalty-EWCfrmr stf,incomestatement,credit,active,Revenue - Sales
+367,R6330,Publishing Royalty-REP,incomestatement,credit,active,Revenue - Sales
+368,R6331,PUBLISHING ROYALTY - ET,incomestatement,credit,active,Revenue - Sales
+369,R6332,Publishing Royalty-Alagappa,incomestatement,credit,active,Revenue - Sales
+370,R6333,Pub Royalty-Pol Stud/Asian Sec,incomestatement,credit,active,Revenue - Sales
+371,E3124,ROYALTIES,incomestatement,debit,active,Royalties Expense
+372,E2B11,S&G JDRI LOCAL TRANSPORTATION,incomestatement,debit,active,Grants Awarded Expense
+373,E2B50,S&G JDRI ORIENTATION,incomestatement,debit,active,Grants Awarded Expense
+374,E2621,S&G PA BOOK ALLOWANCE,incomestatement,debit,active,Grants Awarded Expense
+375,E2630,S&G PA PROFESSIONAL FEES,incomestatement,debit,active,Grants Awarded Expense
+376,E2631,S&G PA HONORARIA - WITHIN US,incomestatement,debit,active,Grants Awarded Expense
+377,E2632,S&G PA HONORARIA - OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+378,E2640,S&G PA INSURANCE,incomestatement,debit,active,Grants Awarded Expense
+379,E2650,S&G PA Orientation,incomestatement,debit,active,Grants Awarded Expense
+380,E2660,S&G PA Field Study,incomestatement,debit,active,Grants Awarded Expense
+381,E2661,S&G PA Field Study-Within US,incomestatement,debit,active,Grants Awarded Expense
+382,E2662,S&G PA Field Study-Outside US,incomestatement,debit,active,Grants Awarded Expense
+383,E2670,S&G PA OTHER COSTS,incomestatement,debit,active,Grants Awarded Expense
+384,E2671,S&G PA EDUCATIONAL FEES AND EX,incomestatement,debit,active,Grants Awarded Expense
+385,E2680,S&G PA On-Campus Housing,incomestatement,debit,active,Grants Awarded Expense
+386,E2681,S&G PA Off-Campus Housing,incomestatement,debit,active,Grants Awarded Expense
+387,E2682,S&G PA ON-CAMP HSG(FLD W/IN US,incomestatement,debit,active,Grants Awarded Expense
+388,E2683,S&G PA ON-CAMP HSG(FLD OUT US,incomestatement,debit,active,Grants Awarded Expense
+389,E2690,S&G PA TUITION UH,incomestatement,debit,active,Grants Awarded Expense
+390,E2691,S&G PA TUITION OTHER,incomestatement,debit,active,Grants Awarded Expense
+391,E2710,S&G NON-DS TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+392,E2711,S&G NON-DS LOCAL TRANSPORTATIO,incomestatement,debit,active,Grants Awarded Expense
+393,E2712,S&G NON-DS INITIAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+394,E2713,S&G NON-DS TERMINAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+395,E2720,S&G NON-DS STIPENDS,incomestatement,debit,active,Grants Awarded Expense
+396,E2721,S&G NON-DS BOOK ALLOWANCE,incomestatement,debit,active,Grants Awarded Expense
+397,E2730,S&G NON-DS PROFESSIONAL FEES,incomestatement,debit,active,Grants Awarded Expense
+398,E2731,S&G NON-DS HONORARIA-WITHIN US,incomestatement,debit,active,Grants Awarded Expense
+399,E2732,S&G NON-DS HONORARIA-OUTSIDEUS,incomestatement,debit,active,Grants Awarded Expense
+400,E2740,S&G NON-DS INSURANCE,incomestatement,debit,active,Grants Awarded Expense
+401,E2750,S&G NON-DS ORIENTATION,incomestatement,debit,active,Grants Awarded Expense
+402,E2761,S&G NON-DS FIELD STUDY-W/IN US,incomestatement,debit,active,Grants Awarded Expense
+403,E2762,S&G NON-DS FLD STUDY-OUTSIDEUS,incomestatement,debit,active,Grants Awarded Expense
+404,E2770,S&G NON-DS OTHER COSTS,incomestatement,debit,active,Grants Awarded Expense
+405,E2771,S&G NON-DS EDUCATION FEES&EXP,incomestatement,debit,active,Grants Awarded Expense
+406,E2780,S&G NON-DS ON-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+407,E2781,S&G NON-DS OFF-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+408,E2782,S&G NON-DS ON-CAMP HSG(FldW/IU,incomestatement,debit,active,Grants Awarded Expense
+409,E2783,S&G NON-DS ON-CAMP HSG(FLD OUT,incomestatement,debit,active,Grants Awarded Expense
+410,E2790,S&G NON-DS TUITION UH,incomestatement,debit,active,Grants Awarded Expense
+411,E2791,S&G NON-DS TUITION OTHER,incomestatement,debit,active,Grants Awarded Expense
+412,E2810,S&G VS TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+413,E2811,S&G VS LOCAL TRANSPORTATION,incomestatement,debit,active,Grants Awarded Expense
+414,E2812,S&G VS Initial Travel,incomestatement,debit,active,Grants Awarded Expense
+415,E2813,S&G VS Terminal Travel,incomestatement,debit,active,Grants Awarded Expense
+416,E2820,S&G VS Stipends,incomestatement,debit,active,Grants Awarded Expense
+417,E2821,S&G VS Per Diem,incomestatement,debit,active,Grants Awarded Expense
+418,E2830,S&G VS PROFESSIONAL FEES,incomestatement,debit,active,Grants Awarded Expense
+419,E2831,S&G VS HONORARIA-WITHIN US,incomestatement,debit,active,Grants Awarded Expense
+420,E2832,S&G VS HONORARIA-OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+421,E2840,S&G VS INSURANCE,incomestatement,debit,active,Grants Awarded Expense
+422,E2850,S&G VS ORIENTATION,incomestatement,debit,active,Grants Awarded Expense
+423,E2860,S&G VS FlELD ACTIV IN/OUT US,incomestatement,debit,active,Grants Awarded Expense
+424,E2861,S&G VS Field Research-w/in US,incomestatement,debit,active,Grants Awarded Expense
+425,E2862,S&G VS Field Rsch-outside/US,incomestatement,debit,active,Grants Awarded Expense
+426,E2870,S&G VS OTHER COSTS,incomestatement,debit,active,Grants Awarded Expense
+427,E2880,S&G VS ON-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+428,E2881,S&G VS OFF-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+429,E2910,S&G PDF TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+430,E2911,S&G PDF LOCAL TRANSPORTATION,incomestatement,debit,active,Grants Awarded Expense
+431,E2912,S&G PDF INITAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+432,E2920,S&G PDF STIPENDS,incomestatement,debit,active,Grants Awarded Expense
+433,E2913,S&G PDF TERMINAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+434,E2922,S&G PDF BOOK ALLOWANCE,incomestatement,debit,active,Grants Awarded Expense
+435,E2930,S&G PDF PROFESSIONAL FEES,incomestatement,debit,active,Grants Awarded Expense
+436,E2931,S&G PDF HONORARIA - WITHIN US,incomestatement,debit,active,Grants Awarded Expense
+437,E2932,S&G PDF HONORARIA - OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+438,E2940,S&G PDF INSURANCE,incomestatement,debit,active,Grants Awarded Expense
+439,E2950,S&G PDF ORIENTATION,incomestatement,debit,active,Grants Awarded Expense
+440,E2961,S&G PDF FIELD RESEARCH-W/IN US,incomestatement,debit,active,Grants Awarded Expense
+441,E2962,S&G PDF FIELD RSCH-OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+442,E2970,S&G PDF OTHER COSTS,incomestatement,debit,active,Grants Awarded Expense
+443,E2980,S&G PDF ON-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+444,E2981,S&G PDF OFF-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+445,E2A10,S&G LF TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+446,E2A11,S&G LF LOCAL TRANSPORTATION,incomestatement,debit,active,Grants Awarded Expense
+447,E2A12,S&G LF INITIAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+448,E2A13,S&G LF TERMINAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+449,E2A20,S&G LF STIPENDS,incomestatement,debit,active,Grants Awarded Expense
+450,E2A21,S&G LF BOOK ALLOWANCE,incomestatement,debit,active,Grants Awarded Expense
+451,E2A30,S&G LF PROFESSIONAL FEES,incomestatement,debit,active,Grants Awarded Expense
+452,E2A31,S&G LF HONORARIA-WITHIN US,incomestatement,debit,active,Grants Awarded Expense
+453,E2A32,S&G LF HONORARIA-OUTSIDEUS,incomestatement,debit,active,Grants Awarded Expense
+454,E2A40,S&G LF INSURANCE,incomestatement,debit,active,Grants Awarded Expense
+455,E2A50,S&G LF ORIENTATION,incomestatement,debit,active,Grants Awarded Expense
+456,E2A61,S&G LF FIELD STUDY-W/IN US,incomestatement,debit,active,Grants Awarded Expense
+457,E2A62,S&G LF FLD STUDY-OUTSIDEUS,incomestatement,debit,active,Grants Awarded Expense
+458,E2A70,S&G LF OTHER COSTS,incomestatement,debit,active,Grants Awarded Expense
+459,E2A71,S&G LF EDUCATION FEES&EXP,incomestatement,debit,active,Grants Awarded Expense
+460,E2A80,S&G LF ON-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+461,E2A81,S&G LF OFF-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+462,E2A82,S&G LF ON-CAMP HSG(FldW/IU,incomestatement,debit,active,Grants Awarded Expense
+463,E2A83,S&G LF ON-CAMP HSG(FLD OUT,incomestatement,debit,active,Grants Awarded Expense
+464,E2A90,S&G LF TUITION UH,incomestatement,debit,active,Grants Awarded Expense
+465,E2A91,S&G LF TUITION OTHER,incomestatement,debit,active,Grants Awarded Expense
+466,E3125,PRIZES & AWARDS,incomestatement,debit,active,Grants Awarded Expense
+467,E9020,GRANTS TO EAST-WEST CENTER,incomestatement,debit,active,Grants Awarded Expense
+468,E2100,S&G DEGREE STUDENTS,incomestatement,debit,active,Grants Awarded Expense
+469,E2110,S&G DS TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+470,E2111,S&G DS LOCAL TRANSPORTATION,incomestatement,debit,active,Grants Awarded Expense
+471,E2112,S&G DS INITIAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+472,E2113,S&G DS TERMINAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+473,E2120,S&G DS STIPENDS,incomestatement,debit,active,Grants Awarded Expense
+474,E2121,S&G DS BOOK ALLOWANCE,incomestatement,debit,active,Grants Awarded Expense
+475,E2130,S&G DS PROFESSIONAL FEES,incomestatement,debit,active,Grants Awarded Expense
+476,E2131,S&G DS HONORARIA - WITHIN US,incomestatement,debit,active,Grants Awarded Expense
+477,E2132,S&G DS HONORARIA - OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+478,E2140,S&G DS INSURANCE,incomestatement,debit,active,Grants Awarded Expense
+479,E2150,S&G DS ORIENTATION,incomestatement,debit,active,Grants Awarded Expense
+480,E2160,S&G DS FIELD STUDY,incomestatement,debit,active,Grants Awarded Expense
+481,E2161,S&G DS FIELD STUDY-WITHIN US,incomestatement,debit,active,Grants Awarded Expense
+482,E2162,S&G DS FIELD STUDY-OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+483,E2170,S&G DS OTHER COSTS,incomestatement,debit,active,Grants Awarded Expense
+484,E2171,S&G DS EDUCATIONAL FEES & EXPE,incomestatement,debit,active,Grants Awarded Expense
+485,E2180,S&G DS ON-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+486,E2181,S&G DS OFF-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+487,E2182,S&G DS ON-CAMP HSG IN US,incomestatement,debit,active,Grants Awarded Expense
+488,E2183,S&G DS ON-CAMP HSG OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+489,E2190,S&G DS TUITION UH,incomestatement,debit,active,Grants Awarded Expense
+490,E2191,S&G DS TUITION OTHER,incomestatement,debit,active,Grants Awarded Expense
+491,E2210,S&G WP TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+492,E2211,S&G WP LOCAL TRANSPORTATION,incomestatement,debit,active,Grants Awarded Expense
+493,E2212,S&G WP INITIAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+494,E2213,S&G WP TERMINAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+495,E2220,S&G WP PER DIEM,incomestatement,debit,active,Grants Awarded Expense
+496,E2221,S&G WP BOOK ALLOWANCE,incomestatement,debit,active,Grants Awarded Expense
+497,E2230,S&G WP PROFESSIONAL FEES,incomestatement,debit,active,Grants Awarded Expense
+498,E2231,S&G WP HONORARIA - WITHIN US,incomestatement,debit,active,Grants Awarded Expense
+499,E2232,S&G WP HONORARIA - OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+500,E2240,S&G WP INSURANCE,incomestatement,debit,active,Grants Awarded Expense
+501,E2250,S&G WP ORIENTATION,incomestatement,debit,active,Grants Awarded Expense
+502,E2260,S&G WP FIELD ACTIVITY,incomestatement,debit,active,Grants Awarded Expense
+503,E2261,S&G WP FIELD ACTIVITY-W/IN US,incomestatement,debit,active,Grants Awarded Expense
+504,E2262,S&G WP FIELD ACTIV-OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+505,E2270,S&G WP OTHER COSTS,incomestatement,debit,active,Grants Awarded Expense
+506,E2280,S&G WP ON-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+507,E2281,S&G WP OFF-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+508,E2311,S&G RI LOCAL TRANSPORTATION,incomestatement,debit,active,Grants Awarded Expense
+509,E2310,S&G RI TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+510,E2312,S&G RI INITIAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+511,E2313,S&G RI TERMINAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+512,E2320,S&G RI STIPENDS,incomestatement,debit,active,Grants Awarded Expense
+513,E2321,S&G RI BOOK ALLOWANCE,incomestatement,debit,active,Grants Awarded Expense
+514,E2330,S&G RI HONORARIA-US RESIDENT,incomestatement,debit,active,Grants Awarded Expense
+515,E2331,S&G RI HONORARIA - WITHIN US,incomestatement,debit,active,Grants Awarded Expense
+516,E2332,S&G RI HONORARIA - OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+517,E2340,S&G RI INSURANCE,incomestatement,debit,active,Grants Awarded Expense
+518,E2350,S&G RI ORIENTATION,incomestatement,debit,active,Grants Awarded Expense
+519,E2360,S&G RI FIELD TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+520,E2361,S&G RI FIELD TRAVEL-WITHIN US,incomestatement,debit,active,Grants Awarded Expense
+521,E2362,S&G RI FIELD TRAVEL-OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+522,E2370,S&G RI OTHER COSTS,incomestatement,debit,active,Grants Awarded Expense
+523,E2380,S&G RI ON-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+524,E2381,S&G RI OFF-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+525,E2392,S&G RI TUITION,incomestatement,debit,active,Grants Awarded Expense
+526,E2410,S&G VF TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+527,E2411,S&G VF LOCAL TRANSPORTATION,incomestatement,debit,active,Grants Awarded Expense
+528,E2412,S&G VF INITIAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+529,E2413,S&G VF TERMINAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+530,E2420,S&G VF STIPENDS,incomestatement,debit,active,Grants Awarded Expense
+531,E2421,S&G VF PER DIEM,incomestatement,debit,active,Grants Awarded Expense
+532,E2422,S&G VF BOOK ALLOWANCE,incomestatement,debit,active,Grants Awarded Expense
+533,E2430,S&G VF PROFESSIONAL FEES,incomestatement,debit,active,Grants Awarded Expense
+534,E2431,S&G VF HONORARIA - WITHIN US,incomestatement,debit,active,Grants Awarded Expense
+535,E2432,S&G VF HONORARIA - OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+536,E2440,S&G VF INSURANCE,incomestatement,debit,active,Grants Awarded Expense
+537,E2450,S&G VF ORIENTATION,incomestatement,debit,active,Grants Awarded Expense
+538,E2460,S&G VF FIELD RESEARCH,incomestatement,debit,active,Grants Awarded Expense
+539,E2461,S&G VF FIELD RESEARCH-W/IN US,incomestatement,debit,active,Grants Awarded Expense
+540,E2462,S&G VF FIELD RSCH-OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+541,E2470,S&G VF OTHER COSTS,incomestatement,debit,active,Grants Awarded Expense
+542,E2480,S&G VF ON-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+543,E2481,S&G VF OFF-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+544,E2510,S&G VA TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+545,E2511,S&G VA LOCAL TRANSPORTATION,incomestatement,debit,active,Grants Awarded Expense
+546,E2512,S&G VA INITIAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+547,E2513,S&G VA TERMINAL TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+548,E2520,S&G VA STIPENDS,incomestatement,debit,active,Grants Awarded Expense
+549,E2521,S&G VA Per Diem,incomestatement,debit,active,Grants Awarded Expense
+550,E2530,S&G VA Professional Fees,incomestatement,debit,active,Grants Awarded Expense
+551,E2531,S&G VA HONORARIA - WITHIN US,incomestatement,debit,active,Grants Awarded Expense
+552,E2532,S&G VA HONORARIA - OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+553,E2540,S&G VA INSURANCE,incomestatement,debit,active,Grants Awarded Expense
+554,E2550,S&G VA ORIENTATION,incomestatement,debit,active,Grants Awarded Expense
+555,E2560,S&G VA Field Activity,incomestatement,debit,active,Grants Awarded Expense
+556,E2570,S&G VA OTHER COSTS,incomestatement,debit,active,Grants Awarded Expense
+557,E2580,S&G VA ON-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+558,E2581,S&G VA OFF-CAMPUS HOUSING,incomestatement,debit,active,Grants Awarded Expense
+559,E2610,S&G PA TRAVEL,incomestatement,debit,active,Grants Awarded Expense
+560,E2611,S&G PA LOCAL TRANSPORTATION,incomestatement,debit,active,Grants Awarded Expense
+561,E2612,S&G PA Initial Travel,incomestatement,debit,active,Grants Awarded Expense
+562,E2613,S&G PA Terminal Travel,incomestatement,debit,active,Grants Awarded Expense
+563,E2620,S&G PA STIPEND-US,incomestatement,debit,active,Grants Awarded Expense
+564,E2B61,S&G JDRI FIELD TRAVEL-WITHIN US,incomestatement,debit,active,Grants Awarded Expense
+565,E2B70,S&G JDRI OTHER COSTS,incomestatement,debit,active,Grants Awarded Expense
+566,E2B20,S&G JDRI STIPENDS,incomestatement,debit,active,Grants Awarded Expense
+567,E2B31,S&G JDRI HONORARIA - WITHIN US,incomestatement,debit,active,Grants Awarded Expense
+568,E2B62,S&G JDRI FIELD TRAVEL-OUTSIDE US,incomestatement,debit,active,Grants Awarded Expense
+569,A2100,PLEDGES RECEIVABLE,balancesheet,debit,active,Pledges Receivable
+570,A2120,UNAMORT DISCT - PLEDGE RECVBL,balancesheet,debit,active,Pledges Receivable
+571,R6200,FUNDRAISING & CONTRIBUTIONS,incomestatement,credit,active,Fundraising Events Revenue
+572,A9100,DUE FROM & TO OTHER FUNDS,balancesheet,debit,active,Interfund Due from
+573,A9200,DUE FROM & TO CURRENT FUND OTH,balancesheet,debit,active,Interfund Due from
+574,A9300,DUE FROM & TO FEDERAL C & G FU,balancesheet,debit,active,Interfund Due from
+575,A9400,DUE FROM & TO OTHER C & G FUND,balancesheet,debit,active,Interfund Due from
+576,A9500,DUE FROM & TO ENDOWMENT FUND,balancesheet,debit,active,Interfund Due from
+577,A9600,DUE FROM & TO AGENCY FUND,balancesheet,debit,active,Interfund Due from
+578,A9700,DUE FROM & TO PLANT FUND,balancesheet,debit,active,Interfund Due from
+579,A9800,DUE FROM & TO EWC FDN,balancesheet,debit,active,Interfund Due from
+580,A9900,DUE FROM REJECT,balancesheet,debit,active,Interfund Due from
+581,R5100,C&G FEDERAL REVENUES,incomestatement,credit,active,Grant Revenue - Governmental
+582,R5110,C&G FEDERAL CONTRIBUTIONS,incomestatement,credit,active,Grant Revenue - Governmental
+583,E7101,INDIRECT COSTS (C&G),incomestatement,debit,active,Allocated Indirect Costs
+584,R6000,CONFERENCE & FOOD SERVICES,incomestatement,credit,active,Rental Income
+585,R6010,CONFERENCE SERVICES,incomestatement,credit,active,Rental Income
+586,R6015,"Conference Services, EWC",incomestatement,credit,active,Rental Income
+587,R6020,CONFERENCE SERVICE-RESERVE R&M,incomestatement,credit,active,Rental Income
+588,R6050,FOOD SERVICE,incomestatement,credit,active,Rental Income
+589,R6055,"Food Services, EWC",incomestatement,credit,active,Rental Income
+590,R6060,FOOD SERVICE-RESERVE FOR R&M,incomestatement,credit,active,Rental Income
+591,R6100,OTHER CHARGEBACK SERVICES,incomestatement,credit,active,Rental Income
+592,E3214,INVESTMENT MANAGEMENT,incomestatement,debit,active,Investment Fees
+593,A2010,NOTES RECEIVABLE,balancesheet,debit,active,Notes Receivable
+594,L4000,DEPOSITS,balancesheet,credit,active,Other Short term liability
+595,L4010,ROOM DEPOSITS,balancesheet,credit,active,Other Short term liability
+596,L4020,FURNITURE DEPOSITS,balancesheet,credit,active,Other Short term liability
+597,L4050,SECURITY KEY DEPOSITS,balancesheet,credit,active,Other Short term liability
+598,L4051,KEY DEPOSITS RSI,balancesheet,credit,active,Other Short term liability
+599,L4052,KEY DEPOSIT - EAPI,balancesheet,credit,active,Other Short term liability
+600,L4053,KEY DEPOSIT -- PSR,balancesheet,credit,active,Other Short term liability
+601,L4054,KEY DEPOSIT - ICC,balancesheet,credit,active,Other Short term liability
+602,L4090,OTHER DEPOSITS,balancesheet,credit,active,Other Short term liability
+603,L5000,PAYABLES-SPONSORS,balancesheet,credit,active,Deferred Revenue
+604,L5100,GRANT USIA,balancesheet,credit,active,Deferred Revenue
+605,L5150,FEDERAL VACATIONS,balancesheet,credit,active,Deferred Revenue
+606,L5200,FEDERAL CONTRACTS & GRANTS,balancesheet,credit,active,Deferred Revenue
+607,L5300,PUBLIC CONTRACTS & GRANTS,balancesheet,credit,active,Deferred Revenue
+608,L5900,PRIVATE CONTRACTS & GRANTS,balancesheet,credit,active,Deferred Revenue
+609,L5910,FICA REFUND DUE USIA,balancesheet,credit,active,Deferred Revenue
+610,L5920,FICA REFUND DUE EMPLOYEES,balancesheet,credit,active,Deferred Revenue
+611,L5930,FICA DUE STATE,balancesheet,credit,active,Deferred Revenue
+612,L6000,DEFERRED INCOME,balancesheet,credit,active,Deferred Revenue
+613,L6010,DEFERRED CONTRIBUTIONS,balancesheet,credit,active,Deferred Revenue
+614,L6020,DEFERRED LEASE INCENTIVES,balancesheet,credit,active,Deferred Revenue
+615,L6100,PARTICIPANT FEES,balancesheet,credit,active,Deferred Revenue
+616,L6250,CONTRACTS & GRANTS,balancesheet,credit,active,Deferred Revenue
+617,L6900,APHERP DEFERRED INCOME,balancesheet,credit,active,Deferred Revenue
+618,L6910,OTHER DEFERRED INCOME,balancesheet,credit,active,Deferred Revenue
+619,L6911,IMIN DEFERRED INCOME,balancesheet,credit,active,Deferred Revenue
+620,R0010,PRTCPNT CHRG FULL TIME TUITION,incomestatement,credit,active,Program Revenue
+621,R0020,PRTCPNT CHRG PART TIME TUITION,incomestatement,credit,active,Program Revenue
+622,R0030,PRTCPNT CHRG EXTENSION TUITION,incomestatement,credit,active,Program Revenue
+623,R0100,PRTCPNT CHRG REGISTRATION FEES,incomestatement,credit,active,Program Revenue
+624,R0110,PRTCPNT CHRG ADMISSION FEES,incomestatement,credit,active,Program Revenue
+625,R0120,PRTCPNT CHRG INSTR & GEN FEES,incomestatement,credit,active,Program Revenue
+626,R0130,PRTCPNT CHRG OTHER FEES,incomestatement,credit,active,Program Revenue
+627,E1401,PER BEN SOCIAL SECURITY,incomestatement,debit,active,Fringe
+628,E1402,PER BEN RETIREMENT,incomestatement,debit,active,Fringe
+629,E1403,PER BEN LIFE INSURANCE,incomestatement,debit,active,Fringe
+630,E1404,PER BEN DISABILITY INSURANCE,incomestatement,debit,active,Fringe
+631,E1405,PER BEN MEDICAL HEALTH,incomestatement,debit,active,Fringe
+632,E1406,PER BEN DENTAL HEALTH,incomestatement,debit,active,Fringe
+633,E1407,PER BEN UNEMPLOYMENT COMP,incomestatement,debit,active,Fringe
+634,E1408,PER BEN WORKMEN'S COMP,incomestatement,debit,active,Fringe
+635,E1409,PER BEN TUITION FEES PAID,incomestatement,debit,active,Fringe
+636,E1410,PER BEN PROFESSIONAL IMPR LEAV,incomestatement,debit,active,Fringe
+637,E1411,PER BEN OTHER,incomestatement,debit,active,Fringe
+638,E1412,PER BEN MEDICARE,incomestatement,debit,active,Fringe
+639,E1413,PER BEN RETIREE HEALTH INS EWC,incomestatement,debit,active,Fringe
+640,E1414,Per Ben Supplemental Retiremnt,incomestatement,debit,active,Fringe
+641,E1415,DC FAMILY LEAVE INSURANCE,incomestatement,debit,active,Fringe
+642,E3301,TELEPHONE,incomestatement,debit,active,Telephone
+643,A3100,GRANT STATE DEPT,balancesheet,debit,active,Grants Receivable
+644,A3150,FEDERAL VACATIONS,balancesheet,debit,active,Grants Receivable
+645,A3200,FED CONTRACTS & GRANTS,balancesheet,debit,active,Grants Receivable
+646,A3300,PUBLIC CONTRACTS & GRANTS,balancesheet,debit,active,Grants Receivable
+647,A3900,PRIVATE CONTRACTS & GRANTS,balancesheet,debit,active,Grants Receivable
+648,A3910,GRANTS RECEIVABLE - DISCOUNT,balancesheet,debit,active,Grants Receivable
+649,R7650,G/L BENEFICIAL intREMNDR TRUST,incomestatement,credit,active,Investment Income
+650,R7200,OTHER INCOME TEMP INVESTMENT,incomestatement,credit,active,Investment Income
+651,R7600,INTEREST INCOME,incomestatement,credit,active,Investment Income
+652,R7625,DIVIDEND INCOME,incomestatement,credit,active,Investment Income
+653,R7628,CAPITAL GAINS DISTRIBUTIONS,incomestatement,credit,active,Investment Income
+654,R7630,REALIZED GAINS (LOSSES),incomestatement,credit,active,Investment Income
+655,R7634,OTHER INVESTMENT INCOME/ADJ,incomestatement,credit,active,Investment Income
+656,R7635,UNREALIZED GAINS (LOSSES),incomestatement,credit,active,Investment Income
+657,R5200,C&G PUBLIC REVENUES,incomestatement,credit,active,Grant Revenue - Other
+658,R5210,C&G PUBLIC CONTRIBUTIONS,incomestatement,credit,active,Grant Revenue - Other
+659,R5300,C&G PRIVATE REVENUES,incomestatement,credit,active,Grant Revenue - Other
+660,R5310,C&G PRIVATE CONTRIBUTIONS,incomestatement,credit,active,Grant Revenue - Other
+661,R3300,C/S CASH PRIVATE,incomestatement,credit,active,Contributions
+662,R4100,C/S INKIND FEDERAL,incomestatement,credit,active,Contributions
+663,R4200,C/S INKIND PUBLIC,incomestatement,credit,active,Contributions
+664,R4300,C/S INKIND PRIVATE,incomestatement,credit,active,Contributions
+665,R1100,STATE DEPT GRANT,incomestatement,credit,active,Contributions
+666,R2100,ASIAN & PACIFIC GOVT,incomestatement,credit,active,Contributions
+667,R2200,PUBLIC,incomestatement,credit,active,Contributions
+668,R2300,"PRIVATE CONTRIB, REG FEES, ETC",incomestatement,credit,active,Contributions
+669,R2301,GET ON IMPUTED RENT,incomestatement,credit,active,Contributions
+670,R2500,Lee Jay Cho Endowment-Private,incomestatement,credit,active,Contributions
+671,R3100,C/S CASH FEDERAL,incomestatement,credit,active,Contributions
+672,R3200,C/S CASH PUBLIC,incomestatement,credit,active,Contributions
+673,E3120,CONFERENCE SERVICES,incomestatement,debit,active,"Conferences, Conventions, and Meetings"
+674,E3130,SA BOARD OF GOVERNORS RETAINER,incomestatement,debit,active,"Conferences, Conventions, and Meetings"
+675,E3131,SA BOARD OF GOVERNORS TRAVEL,incomestatement,debit,active,"Conferences, Conventions, and Meetings"
+676,E3132,BOG/BOD MEETING EXPENSES,incomestatement,debit,active,"Conferences, Conventions, and Meetings"
+677,E3307,CONFERENCE REGISTRATION FEES,incomestatement,debit,active,"Conferences, Conventions, and Meetings"
+678,E3255,REFUND TO GRANTOR,incomestatement,debit,active,Program Expense
+679,E7201,SUB-CONTRACTS (C&G),incomestatement,debit,active,Program Expense
+680,E7205,SUBAWARD TO SUBRECIPIENTS,incomestatement,debit,active,Program Expense
+681,L7000,BONDS & MORTGAGES PAYABLE,balancesheet,credit,active,Mortgage Loans - Long Term
+682,L8000,NOTES PAYABLE,balancesheet,credit,active,Notes Payable - Long Term
+683,L8010,NOTES PAYABLE TO BANKS,balancesheet,credit,active,Notes Payable - Long Term
+684,E6286,EQUIP - LEASEHOLD IMPROVEMENTS,incomestatement,debit,active,Office Supplies Expense
+685,E3303,BOOKS & PUBLICATIONS,incomestatement,debit,active,Office Supplies Expense
+686,E3611,SUPPLIES - OFFICE,incomestatement,debit,active,Office Supplies Expense
+687,E3612,SUPPLIES - EDUCATIONAL,incomestatement,debit,active,Office Supplies Expense
+688,E3613,SUPPLIES - MAINTENANCE,incomestatement,debit,active,Office Supplies Expense
+689,E3614,SUPPLIES - HOUSEKEEPING,incomestatement,debit,active,Office Supplies Expense
+690,E3615,SUPPLIES - LINEN,incomestatement,debit,active,Office Supplies Expense
+691,E3616,SUPPLIES - VEHICLE GAS,incomestatement,debit,active,Office Supplies Expense
+692,E3617,DATA PROCESSING SUPPLIES,incomestatement,debit,active,Office Supplies Expense
+693,E3618,COMPUTER SOFTWARE,incomestatement,debit,active,Office Supplies Expense
+694,E3619,FEE & LICENSE,incomestatement,debit,active,Office Supplies Expense
+695,E361A,UNALLOWABLE FEES,incomestatement,debit,active,Office Supplies Expense
+696,E3621,SUPPLIES - OFFICE-CONTROLLED,incomestatement,debit,active,Office Supplies Expense
+697,E3622,SUPPLIES - AUDIO VISUAL-CONTRO,incomestatement,debit,active,Office Supplies Expense
+698,E3623,SUPPLIES - DORMITORY-CONTROLLE,incomestatement,debit,active,Office Supplies Expense
+699,E3625,Materials & Supplies-Research,incomestatement,debit,active,Office Supplies Expense
+700,E3626,Research Data,incomestatement,debit,active,Office Supplies Expense
+701,E3630,REPRESENTATION & DISCRETIONARY,incomestatement,debit,active,Office Supplies Expense
+702,E3631,REPRESENTATION FUND,incomestatement,debit,active,Office Supplies Expense
+703,E3632,DISCRETIONARY FUND,incomestatement,debit,active,Office Supplies Expense
+704,E3633,Employee Meals,incomestatement,debit,active,Office Supplies Expense
+705,E3634,Entertainment & Promotion,incomestatement,debit,active,Office Supplies Expense
+706,E3635,Fines & Penalties,incomestatement,debit,active,Office Supplies Expense
+707,E3699,PURCHASES CENTRAL STORES,incomestatement,debit,active,Office Supplies Expense
+708,E6010,CONTROL EQPT - GEN EQUIPMENT,incomestatement,debit,active,Office Supplies Expense
+709,E6020,CONTROL EQPT-OFFICE EQUIPMENT,incomestatement,debit,active,Office Supplies Expense
+710,E6040,CONTROL EQPT - MOTOR VEHICLES,incomestatement,debit,active,Office Supplies Expense
+711,E6050,CONTROL EQPT-AUDIO VISUAL EQPT,incomestatement,debit,active,Office Supplies Expense
+712,E6070,CONTROL EQPT-EDUC EQUIPMENT,incomestatement,debit,active,Office Supplies Expense
+713,E6080,CONTROL EQPT-DORMITORY EQUIPMN,incomestatement,debit,active,Office Supplies Expense
+714,E6090,CONTROL EQPT-FOOD SVC EQUIPMNT,incomestatement,debit,active,Office Supplies Expense
+715,E6100,CONTROL EQPT-COMPUTER EQUIPMNT,incomestatement,debit,active,Office Supplies Expense
+716,E6110,CONTROL EQPT-PHOTOGRAPH&REPRO,incomestatement,debit,active,Office Supplies Expense
+717,E6130,CONTROL EQPT-COMMUNICATION EQP,incomestatement,debit,active,Office Supplies Expense
+718,E6200,EQUIP - GENERAL EQUIPMENT,incomestatement,debit,active,Office Supplies Expense
+719,E6205,EQUIP - OFFICE EQUIPMENT,incomestatement,debit,active,Office Supplies Expense
+720,E6210,EQUIP - AUDIO-VISUAL EQUIPMENT,incomestatement,debit,active,Office Supplies Expense
+721,E6215,EQUIP - PHOTOGRAPHIC & REPRO,incomestatement,debit,active,Office Supplies Expense
+722,E6220,EQUIP - EDUCATIONAL EQUIPMENT,incomestatement,debit,active,Office Supplies Expense
+723,E6240,EQUIP - DORMITORY EQUIPMENT,incomestatement,debit,active,Office Supplies Expense
+724,E6245,EQUIP - FOOD SERVICE EQUIPMENT,incomestatement,debit,active,Office Supplies Expense
+725,E6250,EQUIP - COMPUTER EQUIPMENT,incomestatement,debit,active,Office Supplies Expense
+726,E6255,EQUIP - COMMUNICATIONS EQUIP,incomestatement,debit,active,Office Supplies Expense
+727,E6270,EQUIP - MOTOR VEHICLES,incomestatement,debit,active,Office Supplies Expense
+728,E6280,EQUIP - BUILDING IMPROVEMENTS,incomestatement,debit,active,Office Supplies Expense
+729,E6285,EQUIP - GROUND IMPROVEMENTS,incomestatement,debit,active,Office Supplies Expense
+730,E6500,CONTROL EQPT - GRANTOR,incomestatement,debit,active,Office Supplies Expense
+731,E361B,RENT ABATEMENT,incomestatement,debit,active,Office Supplies Expense
+732,A4100,STAMP FUND,balancesheet,debit,active,Prepaid Expenses
+733,A4110,STAMP METER FUND,balancesheet,debit,active,Prepaid Expenses
+734,A4115,POSTAGE DUE FUND,balancesheet,debit,active,Prepaid Expenses
+735,A4120,BUSINESS REPLY MAILING,balancesheet,debit,active,Prepaid Expenses
+736,A4130,STANDARD MAIL POSTAGE,balancesheet,debit,active,Prepaid Expenses
+737,A4140,EXPRESS MAIL POSTAGE,balancesheet,debit,active,Prepaid Expenses
+738,A4200,PREPAID INSURANCE,balancesheet,debit,active,Prepaid Expenses
+739,A4210,PREPAID STIPENDS,balancesheet,debit,active,Prepaid Expenses
+740,A4211,DEFERRED TUITION CHARGES,balancesheet,debit,active,Prepaid Expenses
+741,A4215,PREPAID TRAVEL EXPENSES,balancesheet,debit,active,Prepaid Expenses
+742,L2050,ACCRUED VACATION,balancesheet,credit,active,Accrued Liabilities
+743,L2150,COMMITMENT PAYABLE,balancesheet,credit,active,Accrued Liabilities
+744,L2200,SALARIES & WAGES PAYABLE,balancesheet,credit,active,Accrued Liabilities
+745,L2201,BANK ASSIGNMENT STATE SAVINGS,balancesheet,credit,active,Accrued Liabilities
+746,L2202,BANK ASSIGNMENT AMERICAN S&L,balancesheet,credit,active,Accrued Liabilities
+747,L2203,BANK ASSIGNMENT FIRST FEDERAL,balancesheet,credit,active,Accrued Liabilities
+748,L2204,BANK ASSIGNMENT TERRITORIAL S&,balancesheet,credit,active,Accrued Liabilities
+749,L2205,BANK ASSIGNMENT HON FED S&L,balancesheet,credit,active,Accrued Liabilities
+750,L2206,BANK ASSIGNMENT FIRST INTERSTA,balancesheet,credit,active,Accrued Liabilities
+751,L2207,BANK ASSIGNMENT BANK OF HAWAII,balancesheet,credit,active,Accrued Liabilities
+752,L2208,BANK ASSIGNMENT BANK OF HONOLU,balancesheet,credit,active,Accrued Liabilities
+753,L2209,BANK ASSIGNMENT CENTRAL PACIFI,balancesheet,credit,active,Accrued Liabilities
+754,L2210,BANK ASSIGNMENT CITY BANK,balancesheet,credit,active,Accrued Liabilities
+755,L2211,BANK ASSIGNMENT FIRST HAWAIIAN,balancesheet,credit,active,Accrued Liabilities
+756,L2212,BANK ASSIGNMENT HAWAII NATIONA,balancesheet,credit,active,Accrued Liabilities
+757,L2213,BANK ASSIGNMENT LIBERTY BANK,balancesheet,credit,active,Accrued Liabilities
+758,L2214,BANK ASSIGNMENT FED CREDIT UNI,balancesheet,credit,active,Accrued Liabilities
+759,L2215,BANK ASSIGNMENT -- PIONEER FED,balancesheet,credit,active,Accrued Liabilities
+760,L2225,GARNISHMENT PAYABLE,balancesheet,credit,active,Accrued Liabilities
+761,L2300,RETIREMENT EMP RETIRE SYS ADM,balancesheet,credit,active,Accrued Liabilities
+762,L2301,RETIREMENT TIAA-CREF,balancesheet,credit,active,Accrued Liabilities
+763,L2302,RETIREMENT EMP RETIREMENT SYS,balancesheet,credit,active,Accrued Liabilities
+764,L2303,RETIREMENT MUTUAL BENEFIT LIFE,balancesheet,credit,active,Accrued Liabilities
+765,L2304,RETIREMENT CONN MUTUAL LIFE,balancesheet,credit,active,Accrued Liabilities
+766,L2305,RETIREMENT MINN MUTUAL LIFE,balancesheet,credit,active,Accrued Liabilities
+767,L2306,RETIREMENT TSA AMERICAN EXPRES,balancesheet,credit,active,Accrued Liabilities
+768,L2307,RETIREMENT JOHN HANCOCK LIFE,balancesheet,credit,active,Accrued Liabilities
+769,L2308,RETIREMENT GREAT AMERICAN LIFE,balancesheet,credit,active,Accrued Liabilities
+770,L2309,RETIREMENT KEMPER,balancesheet,credit,active,Accrued Liabilities
+771,L2310,RETIREMENT AETNA LIFE,balancesheet,credit,active,Accrued Liabilities
+772,L2311,RETIREMENT NATIONWIDE,balancesheet,credit,active,Accrued Liabilities
+773,L2312,RETIREE HEALTH INSURANCE EWC,balancesheet,credit,active,Accrued Liabilities
+774,L2313,RETIREMENT SUNSET LIFE,balancesheet,credit,active,Accrued Liabilities
+775,L2314,RETIREMENT NORTHWESTERN MUTUAL,balancesheet,credit,active,Accrued Liabilities
+776,L2315,RETIREMENT TRANSAMERICA LIFE,balancesheet,credit,active,Accrued Liabilities
+777,L2316,RETIREMENT SECURITY BEN LIFE I,balancesheet,credit,active,Accrued Liabilities
+778,L2317,RETIREMENT ANCHOR NATL LIFE IN,balancesheet,credit,active,Accrued Liabilities
+779,L2318,RETIREMENT WESTERN RESERVE LIF,balancesheet,credit,active,Accrued Liabilities
+780,L2319,RETIREMENT MFS/SUN LIFE ANNUIT,balancesheet,credit,active,Accrued Liabilities
+781,L2320,TSA: AMERICAN LIFE & CASUALTY,balancesheet,credit,active,Accrued Liabilities
+782,L2500,MEDICAL KAISER,balancesheet,credit,active,Accrued Liabilities
+783,L2502,MEDICAL- DC OFFICE,balancesheet,credit,active,Accrued Liabilities
+784,L2510,MEDICAL & DENTAL HMSA,balancesheet,credit,active,Accrued Liabilities
+785,L2512,FSA Medical,balancesheet,credit,active,Accrued Liabilities
+786,L2514,FSA Dependent Care,balancesheet,credit,active,Accrued Liabilities
+787,L2515,USAble Life Insurance,balancesheet,credit,active,Accrued Liabilities
+788,L2520,HAWAII DENTAL SERVICE,balancesheet,credit,active,Accrued Liabilities
+789,L2530,COBRA - AEI,balancesheet,credit,active,Accrued Liabilities
+790,L2531,COBRA - EWC,balancesheet,credit,active,Accrued Liabilities
+791,L2600,LTD HARTFORD INSURANCE,balancesheet,credit,active,Accrued Liabilities
+792,L2610,LTD HGEA INSURANCE,balancesheet,credit,active,Accrued Liabilities
+793,L2700,UNION & SERVICE FEES HGEA,balancesheet,credit,active,Accrued Liabilities
+794,L2710,MOTOR INSURANCE HGEA,balancesheet,credit,active,Accrued Liabilities
+795,L2720,CREDIT UNION UNIVERSITY OF HAW,balancesheet,credit,active,Accrued Liabilities
+796,L2730,PARKING UNIVERSITY OF HAWAII,balancesheet,credit,active,Accrued Liabilities
+797,L2732,PARKING-FSA BenSvcs,balancesheet,credit,active,Accrued Liabilities
+798,L2733,DC PARKING & TRANSIT FSA,balancesheet,credit,active,Accrued Liabilities
+799,L2737,BUS PASS - HONOLULU,balancesheet,credit,active,Accrued Liabilities
+800,L2740,UNITED FUND,balancesheet,credit,active,Accrued Liabilities
+801,L2750,EWC FOUNDATION,balancesheet,credit,active,Accrued Liabilities
+802,L2760,UNION & SERVICE FEES -- AFSCME,balancesheet,credit,active,Accrued Liabilities
+803,L2799,MISC PAYROLL PAYABLES,balancesheet,credit,active,Accrued Liabilities
+804,L2800,FELLOW MEDICAL - KAISER,balancesheet,credit,active,Accrued Liabilities
+805,L2810,FELLOW MEDICAL - HMSA,balancesheet,credit,active,Accrued Liabilities
+806,L2820,FELLOWS MEAL PLAN,balancesheet,credit,active,Accrued Liabilities
+807,L2850,STIPEND PAYABLE,balancesheet,credit,active,Accrued Liabilities
+808,L2851,Stipend Payable (MIP),balancesheet,credit,active,Accrued Liabilities
+809,L2852,Stipend Payable-Vendor (NPS),balancesheet,credit,active,Accrued Liabilities
+810,L2990,A/P OTHER,balancesheet,credit,active,Accrued Liabilities
+811,L2995,ADVANCE FROM PBEC,balancesheet,credit,active,Accrued Liabilities
+812,L2503,MEDICAL HONOLULU,balancesheet,credit,active,Accrued Liabilities
+813,L3000,TAXES WITHHELD-ACCRUED,balancesheet,credit,active,Accrued Taxes
+814,L3010,FEDERAL INCOME TAX,balancesheet,credit,active,Accrued Taxes
+815,L3020,Consultant Federal Income Tax,balancesheet,credit,active,Accrued Taxes
+816,L3110,STATE INCOME TAX,balancesheet,credit,active,Accrued Taxes
+817,L3112,STATE INCOME TAX WITHHELD-DC,balancesheet,credit,active,Accrued Taxes
+818,L3114,STATE INCOME TAX WITHHELD-MD,balancesheet,credit,active,Accrued Taxes
+819,L3116,STATE INCOME TAX WITHHELD-VA,balancesheet,credit,active,Accrued Taxes
+820,L3120,FELLOW STATE INCOME TAX,balancesheet,credit,active,Accrued Taxes
+821,L3125,PARTICIPANT FEDERAL INCOME TAX,balancesheet,credit,active,Accrued Taxes
+822,L3130,FICA PAYABLE SRS,balancesheet,credit,active,Accrued Taxes
+823,L3200,SOCIAL SECURITY TAXES,balancesheet,credit,active,Accrued Taxes
+824,L3201,MEDICARE TAXES,balancesheet,credit,active,Accrued Taxes
+825,L3210,STATE UNEMPLOYMENT INS-DC,balancesheet,credit,active,Accrued Taxes
+826,L3211,DC FAMILY LEAVE INS LIAB,balancesheet,credit,active,Accrued Taxes
+827,L3900,OTHER TAXES,balancesheet,credit,active,Accrued Taxes
+828,L3910,GEN EXCISE & USE TAX PAYABLE,balancesheet,credit,active,Accrued Taxes
+829,E3181,SETTLEMENTS,incomestatement,debit,active,Bad Debt Expense
+830,E3251,"LOSSES-THEFT, BAD DEBTS, ETC",incomestatement,debit,active,Bad Debt Expense
+831,E3252,CASH SHORTAGE (OVERAGE),incomestatement,debit,active,Bad Debt Expense
+832,E9810,EQUIPMENT DISPOSALS,incomestatement,debit,active,Bad Debt Expense
+833,E4110,TRAVEL EMPLOYEE DOMESTIC,incomestatement,debit,active,Travel Expense
+834,E4112,TRAVEL EMPLOYEE DOMES OTH COST,incomestatement,debit,active,Travel Expense
+835,E4120,TRAVEL EMP MOVING&RELOC DOMEST,incomestatement,debit,active,Travel Expense
+836,E4130,TRAVEL RECRUITMENT TRAV DOMEST,incomestatement,debit,active,Travel Expense
+837,E4210,TRAVEL EMPLOYEE FOREIGN,incomestatement,debit,active,Travel Expense
+838,E4212,TRAVEL EMPLOYEE FOREIGN OTH CO,incomestatement,debit,active,Travel Expense
+839,E4220,TRAVEL EMP MOVING&RELOC FOREIG,incomestatement,debit,active,Travel Expense
+840,E4230,TRAVEL RECRUITMENT TRAV FOREIG,incomestatement,debit,active,Travel Expense
+841,E3350,CABLEVISION,incomestatement,debit,active,Telecommunication Expense
+842,E3740,UTILITY & WASTE COLLECTION,incomestatement,debit,active,Utility Expense
+843,E3741,GAS,incomestatement,debit,active,Utility Expense
+844,E3742,ELECTRIC,incomestatement,debit,active,Utility Expense
+845,E3743,WATER,incomestatement,debit,active,Utility Expense
+846,E3744,WASTE COLLECTION,incomestatement,debit,active,Utility Expense
+847,E3745,UTILITIES REIMBURSEMENT,incomestatement,debit,active,Utility Expense
+848,E9805,DEPRECIATION,incomestatement,debit,active,Depreciation Expense
+849,E3304,DUES,incomestatement,debit,active,Dues and Subscriptions Expense
+850,E3305,SUBSCRIPTIONS,incomestatement,debit,active,Dues and Subscriptions Expense
+851,E2B10,S&G Travel,incomestatement,debit,active,
+852,L2400,PAYABLE TO OTHER AGENCY FUNDS,balancesheet,credit,active,
+853,L2021,Interest Payable to Funder,balancesheet,credit,active,
+854,L8023,LEASE LIABILITY - ST OPERATING,balancesheet,debit,active,
+855,A6502,Right of Use Asset - Building: Operating Leases,balancesheet,debit,active,
+856,A6503,Right of Use Asset - Office Equipment: Finance Leases,balancesheet,debit,active,
+857,A6504,Right of Use Asset - Office Equipment: Operating Leases,balancesheet,debit,active,
+858,L8022,LEASE LIABILITY - LT OPERATING,balancesheet,debit,active,
+859,A2715,A/R - Lessor Incentives,balancesheet,debit,active,
+860,A6901,ACCUMULATED AMORTIZATION - FINANCE LEASE,balancesheet,debit,active,
+861,L8021,LEASE LIABILITY - LT FINANCE,balancesheet,debit,active,
+862,A6501,RIGHT OF USE ASSET - BUILDING: FINANCE LEASES,balancesheet,debit,active,

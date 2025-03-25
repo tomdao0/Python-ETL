@@ -1,39 +1,50 @@
-2024-12-10 22:34:20,834:INFO:_________Starting Proccess________
-2024-12-10 22:34:23,380:INFO:Checking data in Intacct_Project
-2024-12-10 22:34:24,048:INFO:Preparing to update data for Intacct_Project
-2024-12-10 22:34:24,048:INFO:The folder 'PROJECT' has been deleted.
-2024-12-10 22:34:26,131:INFO:Processing file: 1.csv
-2024-12-10 22:34:26,156:ERROR:Failed to import 1.csv. Check the error log: PROJECT\1.csv_error.log
-2024-12-10 22:35:36,410:INFO:_________Starting Proccess________
-2024-12-10 22:35:36,638:INFO:Checking data in Intacct_Project
-2024-12-10 22:35:37,306:INFO:Preparing to update data for Intacct_Project
-2024-12-10 22:35:37,306:INFO:The folder 'PROJECT' has been deleted.
-2024-12-10 22:35:39,169:INFO:Processing file: 1.csv
-2024-12-10 22:35:39,187:ERROR:Failed to import 1.csv. Check the error log: PROJECT\1.csv_error.log
-2024-12-10 22:37:14,691:INFO:_________Starting Proccess________
-2024-12-10 22:37:16,235:INFO:Checking data in Intacct_Project
-2024-12-10 22:37:16,922:INFO:Preparing to update data for Intacct_Project
-2024-12-10 22:37:16,922:INFO:The folder 'PROJECT' has been deleted.
-2024-12-10 22:37:18,588:INFO:Processing file: 1.csv
-2024-12-10 22:37:18,607:ERROR:Failed to import 1.csv. Check the error log: PROJECT\1.csv_error.log
-2024-12-10 22:38:07,567:INFO:_________Starting Proccess________
-2024-12-10 22:38:07,793:INFO:Checking data in Intacct_GLAccount
-2024-12-10 22:38:08,493:INFO:Preparing to update data for Intacct_GLAccount
-2024-12-10 22:38:10,191:INFO:Processing file: 1.csv
-2024-12-10 22:38:10,217:ERROR:Failed to import 1.csv. Check the error log: GLACCOUNT\1.csv_error.log
-2024-12-10 22:38:49,796:INFO:_________Starting Proccess________
-2024-12-10 22:38:50,039:INFO:Checking data in Intacct_GLAccount
-2024-12-10 22:38:50,724:INFO:Preparing to update data for Intacct_GLAccount
-2024-12-10 22:38:50,724:INFO:The folder 'GLACCOUNT' has been deleted.
-2024-12-10 22:38:52,538:INFO:Processing file: 1.csv
-2024-12-10 22:38:52,561:ERROR:Failed to import 1.csv. Check the error log: GLACCOUNT\1.csv_error.log 3221225781
-2024-12-10 22:43:03,876:INFO:_________Starting Proccess________
-2024-12-10 22:43:05,377:INFO:Checking data in Intacct_GLAccount
-2024-12-10 22:43:06,048:INFO:Preparing to update data for Intacct_GLAccount
-2024-12-10 22:43:06,049:INFO:The folder 'GLACCOUNT' has been deleted.
-2024-12-10 22:43:44,453:INFO:_________Starting Proccess________
-2024-12-10 22:43:44,679:INFO:Checking data in Intacct_GLAccount
-2024-12-10 22:43:45,348:INFO:Preparing to update data for Intacct_GLAccount
-2024-12-10 22:43:45,350:INFO:The folder 'GLACCOUNT' has been deleted.
-2024-12-10 22:43:47,283:INFO:Processing file: 1.csv
-2024-12-10 22:43:47,300:ERROR:Failed to import 1.csv. Check the error log: GLACCOUNT\1.csv_error.log
+2024-12-13 21:48:02,805:INFO:_________Starting Proccess________
+2024-12-13 21:48:05,780:INFO:Checking data in Intacct_Project
+2024-12-13 21:48:06,932:INFO:This first running, please wait for pull data to Intacct_Project
+2024-12-13 21:48:06,933:INFO:The folder 'PROJECT' has been deleted.
+2024-12-13 21:48:06,936:INFO:Get data of PROJECT with modified that is on equal or after 12/4/2024 0:44:30
+2024-12-13 21:48:08,778:INFO:Processing file: 1.csv
+2024-12-13 21:48:08,830:ERROR:Failed to import 1.csv. Check the error log: PROJECT\1.csv_error.log
+2024-12-13 21:48:47,551:INFO:_________Starting Proccess________
+2024-12-13 21:48:47,780:INFO:Checking data in Intacct_Project
+2024-12-13 21:48:48,893:INFO:This first running, please wait for pull data to Intacct_Project
+2024-12-13 21:48:48,895:INFO:The folder 'PROJECT' has been deleted.
+2024-12-13 21:48:48,897:INFO:Get data of PROJECT with modified that is on equal or after 12/4/2024 0:44:30
+2024-12-13 21:48:50,946:INFO:Processing file: 1.csv
+2024-12-13 21:48:50,986:ERROR:Failed to import 1.csv. Check the error log: PROJECT\1.csv_error.log
+2024-12-13 21:51:09,764:INFO:_________Starting Proccess________
+2024-12-13 21:51:11,327:INFO:Checking data in Intacct_Project
+2024-12-13 21:51:12,556:INFO:This first running, please wait for pull data to Intacct_Project
+2024-12-13 21:51:12,561:INFO:The folder 'PROJECT' has been deleted.
+2024-12-13 21:51:12,562:INFO:Get data of PROJECT with modified that is on equal or after 12/4/2024 0:44:30
+2024-12-13 21:51:14,719:INFO:Processing file: 1.csv
+2024-12-13 21:51:14,760:ERROR:Failed to import 1.csv. Check the error log: PROJECT\1.csv_error.log
+2024-12-13 21:51:45,290:INFO:_________Starting Proccess________
+2024-12-13 21:51:45,514:INFO:Checking data in Intacct_Project
+2024-12-13 21:51:46,570:INFO:This first running, please wait for pull data to Intacct_Project
+2024-12-13 21:51:46,577:INFO:The folder 'PROJECT' has been deleted.
+2024-12-13 21:51:46,577:INFO:Get data of PROJECT with modified that is on equal or after 12/4/2024 0:44:30
+2024-12-13 21:51:48,426:INFO:Processing file: 1.csv
+2024-12-13 21:51:48,470:ERROR:Failed to import 1.csv. Check the error log: PROJECT\1.csv_error.log
+2024-12-13 21:52:10,373:INFO:_________Starting Proccess________
+2024-12-13 21:52:10,620:INFO:Checking data in Intacct_Project
+2024-12-13 21:52:11,643:INFO:This first running, please wait for pull data to Intacct_Project
+2024-12-13 21:52:11,647:INFO:The folder 'PROJECT' has been deleted.
+2024-12-13 21:52:11,649:INFO:Get data of PROJECT with modified that is on equal or after 12/4/2024 0:44:30
+2024-12-13 21:52:13,695:INFO:Processing file: 1.csv
+2024-12-13 21:52:13,733:ERROR:Failed to import 1.csv. Check the error log: PROJECT\1.csv_error.log
+2024-12-13 21:52:20,289:INFO:_________Starting Proccess________
+2024-12-13 21:52:20,543:INFO:Checking data in Intacct_Project
+2024-12-13 21:52:21,698:INFO:This first running, please wait for pull data to Intacct_Project
+2024-12-13 21:52:21,698:INFO:The folder 'PROJECT' has been deleted.
+2024-12-13 21:52:21,698:INFO:Get data of PROJECT with modified that is on equal or after 12/4/2024 0:44:30
+2024-12-13 21:52:23,912:INFO:Processing file: 1.csv
+2024-12-13 21:52:23,942:ERROR:Failed to import 1.csv. Check the error log: PROJECT\1.csv_error.log
+2024-12-13 21:52:44,629:INFO:_________Starting Proccess________
+2024-12-13 21:52:44,857:INFO:Checking data in Intacct_Project
+2024-12-13 21:52:45,131:ERROR:('42S22', "[42S22] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Invalid column name 'WHENMODIFIED'. (207) (SQLExecDirectW)")
+2024-12-13 21:52:45,659:INFO:Preparing to update data for Intacct_Project
+2024-12-13 21:52:54,366:INFO:_________Starting Proccess________
+2024-12-13 21:52:54,628:INFO:Checking data in Intacct_Project
+2024-12-13 21:52:54,848:ERROR:('42S22', "[42S22] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Invalid column name 'WHENMODIFIED'. (207) (SQLExecDirectW)")
+2024-12-13 21:52:55,466:INFO:Preparing to update data for Intacct_Project
